@@ -3103,8 +3103,6 @@
 	<glyph unicode="0627" name="alef-ar" category="Letter" script="arabic" production="uni0627" altNames="afii57415, alefarabic" description="ARABIC LETTER ALEF" />
 	<glyph unicode="FE8D" name="alef-ar.isol" category="Letter" script="arabic" production="uniFE8D" description="ARABIC LETTER ALEF ISOLATED FORM" />
 	<glyph unicode="FE8E" name="alef-ar.fina" category="Letter" script="arabic" production="uniFE8E" altNames="aleffinalarabic" description="ARABIC LETTER ALEF FINAL FORM" />
-	<glyph name="alef-ar.short" category="Letter" script="arabic" production="uni0627.short" description="ARABIC LETTER ALEF" />
-	<glyph name="alef-ar.fina.short" category="Letter" script="arabic" production="uniFE8E.short" description="ARABIC LETTER ALEF FINAL FORM" />
 	<glyph unicode="0623" name="alefHamzaabove-ar" category="Letter" script="arabic" production="uni0623" altNames="afii57411, alefhamzaabovearabic" description="ARABIC LETTER ALEF WITH HAMZA ABOVE" />
 	<glyph unicode="FE83" name="alefHamzaabove-ar.isol" category="Letter" script="arabic" production="uniFE83" description="ARABIC LETTER ALEF WITH HAMZA ABOVE ISOLATED FORM" />
 	<glyph unicode="FE84" name="alefHamzaabove-ar.fina" category="Letter" script="arabic" production="uniFE84" altNames="alefhamzaabovefinalarabic" description="ARABIC LETTER ALEF WITH HAMZA ABOVE FINAL FORM" />
@@ -3123,9 +3121,6 @@
 	<glyph unicode="FD3C" name="alefFathatan-ar.fina" category="Letter" script="arabic" production="uniFD3C" description="ARABIC LIGATURE ALEF WITH FATHATAN FINAL FORM" />
 	<glyph unicode="0675" name="highhamzaAlef-ar" category="Letter" script="arabic" production="uni0675" description="ARABIC LETTER HIGH HAMZA ALEF" />
 	<glyph unicode="066E" name="behDotless-ar" category="Letter" script="arabic" production="uni066E" altNames="dotlessbeh-ar" description="ARABIC LETTER DOTLESS BEH" />
-	<glyph name="behDotless-ar.fina" category="Letter" script="arabic" production="uni066E.fina" altNames="dotlessbeh-ar.fina" description="ARABIC LETTER FINAL DOTLESS BEH" />
-	<glyph name="behDotless-ar.medi" category="Letter" script="arabic" production="uni066E.medi" altNames="dotlessbeh-ar.medi" description="ARABIC LETTER MEDIAL DOTLESS BEH" />
-	<glyph name="behDotless-ar.init" category="Letter" script="arabic" production="uni066E.init" altNames="dotlessbeh-ar.init" description="ARABIC LETTER INITIAL DOTLESS BEH" />
 	<glyph unicode="0628" name="beh-ar" category="Letter" script="arabic" production="uni0628" altNames="afii57416, beharabic" description="ARABIC LETTER BEH" />
 	<glyph unicode="FE8F" name="beh-ar.isol" category="Letter" script="arabic" production="uniFE8F" description="ARABIC LETTER BEH ISOLATED FORM" />
 	<glyph unicode="FE90" name="beh-ar.fina" category="Letter" script="arabic" production="uniFE90" altNames="behfinalarabic" description="ARABIC LETTER BEH FINAL FORM" />
@@ -3224,14 +3219,8 @@
 	<glyph unicode="FEA8" name="khah-ar.medi" category="Letter" script="arabic" production="uniFEA8" altNames="khahmedialarabic" description="ARABIC LETTER KHAH MEDIAL FORM" />
 	<glyph unicode="FEA7" name="khah-ar.init" category="Letter" script="arabic" production="uniFEA7" altNames="khahinitialarabic" description="ARABIC LETTER KHAH INITIAL FORM" />
 	<glyph unicode="076E" name="hahTahbelow-ar" category="Letter" script="arabic" production="uni076E" description="ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH BELOW" />
-	<glyph name="hahTahbelow-ar.fina" category="Letter" script="arabic" production="uni076E.fina" description="ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH BELOW" />
-	<glyph name="hahTahbelow-ar.medi" category="Letter" script="arabic" production="uni076E.medi" description="ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH BELOW" />
-	<glyph name="hahTahbelow-ar.init" category="Letter" script="arabic" production="uni076E.init" description="ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH BELOW" />
 	<glyph unicode="076F" name="hahTahTwodotshorizontalabove-ar" category="Letter" script="arabic" production="uni076F" description="ARABIC LETTER HAH WITH SMALL ARABIC LETTER TAH AND TWO DOTS" />
 	<glyph unicode="077C" name="hahFourbelow-ar" category="Letter" script="arabic" production="uni077C" description="ARABIC LETTER HAH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW" />
-	<glyph name="hahFourbelow-ar.fina" category="Letter" script="arabic" production="uni077C.fina" description="ARABIC LETTER HAH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW" />
-	<glyph name="hahFourbelow-ar.medi" category="Letter" script="arabic" production="uni077C.medi" description="ARABIC LETTER HAH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW" />
-	<glyph name="hahFourbelow-ar.init" category="Letter" script="arabic" production="uni077C.init" description="ARABIC LETTER HAH WITH EXTENDED ARABIC-INDIC DIGIT FOUR BELOW" />
 	<glyph unicode="08A2" name="jeemTwodotsabove-ar" category="Letter" script="arabic" production="uni08A2" description="ARABIC LETTER JEEM WITH TWO DOTS ABOVE" />
 	<glyph unicode="062F" name="dal-ar" category="Letter" script="arabic" production="uni062F" altNames="afii57423, dalarabic" description="ARABIC LETTER DAL" />
 	<glyph unicode="FEA9" name="dal-ar.isol" category="Letter" script="arabic" production="uniFEA9" description="ARABIC LETTER DAL ISOLATED FORM" />
@@ -3353,9 +3342,6 @@
 	<glyph unicode="FB6D" name="veh-ar.medi" category="Letter" script="arabic" production="uniFB6D" altNames="vehmedialarabic" description="ARABIC LETTER VEH MEDIAL FORM" />
 	<glyph unicode="FB6C" name="veh-ar.init" category="Letter" script="arabic" production="uniFB6C" altNames="vehinitialarabic" description="ARABIC LETTER VEH INITIAL FORM" />
 	<glyph unicode="06A1" name="fehDotless-ar" category="Letter" script="arabic" production="uni06A1" altNames="dotlessfeh-ar" description="ARABIC LETTER DOTLESS FEH" />
-	<glyph name="fehDotless-ar.fina" category="Letter" script="arabic" production="uni06A1.fina" altNames="dotlessfeh-ar.fina" description="ARABIC LETTER DOTLESS FEH FINAL FORM" />
-	<glyph name="fehDotless-ar.medi" category="Letter" script="arabic" production="uni06A1.medi" altNames="dotlessfeh-ar.medi" description="ARABIC LETTER DOTLESS FEH MEDIAL FORM" />
-	<glyph name="fehDotless-ar.init" category="Letter" script="arabic" production="uni06A1.init" altNames="dotlessfeh-ar.init" description="ARABIC LETTER DOTLESS FEH INITIAL FORM" />
 	<glyph unicode="06A2" name="fehDotbelow-ar" category="Letter" script="arabic" production="uni06A2" description="ARABIC LETTER FEH WITH DOT MOVED BELOW" />
 	<glyph unicode="06A3" name="fehDotaboveDotbelow-ar" category="Letter" script="arabic" production="uni06A3" description="ARABIC LETTER FEH WITH DOT BELOW" />
 	<glyph unicode="06A5" name="fehThreedotsbelow-ar" category="Letter" script="arabic" production="uni06A5" description="ARABIC LETTER FEH WITH THREE DOTS BELOW" />
@@ -3366,7 +3352,6 @@
 	<glyph unicode="FB71" name="peheh-ar.medi" category="Letter" script="arabic" production="uniFB71" description="ARABIC LETTER PEHEH MEDIAL FORM" />
 	<glyph unicode="FB70" name="peheh-ar.init" category="Letter" script="arabic" production="uniFB70" description="ARABIC LETTER PEHEH INITIAL FORM" />
 	<glyph unicode="066F" name="qafDotless-ar" category="Letter" script="arabic" production="uni066F" altNames="dotlessqaf-ar" description="ARABIC LETTER DOTLESS QAF" />
-	<glyph name="qafDotless-ar.fina" category="Letter" script="arabic" production="uni066F.fina" description="ARABIC LETTER DOTLESS QAF FINAL FORM" />
 	<glyph unicode="0642" name="qaf-ar" category="Letter" script="arabic" production="uni0642" altNames="afii57442, qafarabic" description="ARABIC LETTER QAF" />
 	<glyph unicode="FED5" name="qaf-ar.isol" category="Letter" script="arabic" production="uniFED5" description="ARABIC LETTER QAF ISOLATED FORM" />
 	<glyph unicode="FED6" name="qaf-ar.fina" category="Letter" script="arabic" production="uniFED6" altNames="qaffinalarabic" description="ARABIC LETTER QAF FINAL FORM" />
@@ -3375,8 +3360,6 @@
 	<glyph unicode="06A7" name="qafDotabove-ar" category="Letter" script="arabic" production="uni06A7" description="ARABIC LETTER QAF WITH DOT ABOVE" />
 	<glyph unicode="06A8" name="qafThreedotsabove-ar" category="Letter" script="arabic" production="uni06A8" description="ARABIC LETTER QAF WITH THREE DOTS ABOVE" />
 	<glyph unicode="08A5" name="qafDotbelow-ar" category="Letter" script="arabic" production="uni08A5" description="ARABIC LETTER QAF WITH DOT BELOW" />
-	<glyph name="kafDotless-ar" category="Letter" script="arabic" altNames="dotlesskaf-ar" description="ARABIC LETTER DOTLESS KAF" />
-	<glyph name="kafDotless-ar.fina" category="Letter" script="arabic" altNames="dotlesskaf-ar.fina" description="ARABIC LETTER DOTLESS KAF FINAL FORM" />
 	<glyph unicode="0643" name="kaf-ar" category="Letter" script="arabic" production="uni0643" altNames="afii57443, kafarabic" description="ARABIC LETTER KAF" />
 	<glyph unicode="FED9" name="kaf-ar.isol" category="Letter" script="arabic" production="uniFED9" description="ARABIC LETTER KAF ISOLATED FORM" />
 	<glyph unicode="FEDA" name="kaf-ar.fina" category="Letter" script="arabic" production="uniFEDA" altNames="kaffinalarabic" description="ARABIC LETTER KAF FINAL FORM" />
@@ -3488,7 +3471,6 @@
 	<glyph unicode="FE93" name="tehMarbuta-ar.isol" category="Letter" script="arabic" production="uniFE93" description="ARABIC LETTER TEH MARBUTA ISOLATED FORM" />
 	<glyph unicode="FE94" name="tehMarbuta-ar.fina" category="Letter" script="arabic" production="uniFE94" altNames="tehmarbutafinalarabic" description="ARABIC LETTER TEH MARBUTA FINAL FORM" />
 	<glyph unicode="06C3" name="tehMarbutagoal-ar" category="Letter" script="arabic" production="uni06C3" description="ARABIC LETTER TEH MARBUTA GOAL" />
-	<glyph name="tehMarbutagoal-ar.fina" category="Letter" script="arabic" production="uni06C3.fina" description="ARABIC LETTER TEH MARBUTA GOAL FINAL FORM" />
 	<glyph unicode="0648" name="waw-ar" category="Letter" script="arabic" production="uni0648" altNames="afii57448, wawarabic" description="ARABIC LETTER WAW" />
 	<glyph unicode="FEED" name="waw-ar.isol" category="Letter" script="arabic" production="uniFEED" description="ARABIC LETTER WAW ISOLATED FORM" />
 	<glyph unicode="FEEE" name="waw-ar.fina" category="Letter" script="arabic" production="uniFEEE" altNames="wawfinalarabic" description="ARABIC LETTER WAW FINAL FORM" />
@@ -3541,9 +3523,6 @@
 	<glyph unicode="FE8C" name="yehHamzaabove-ar.medi" category="Letter" script="arabic" production="uniFE8C" altNames="yehhamzaabovemedialarabic" description="ARABIC LETTER YEH WITH HAMZA ABOVE MEDIAL FORM" />
 	<glyph unicode="FE8B" name="yehHamzaabove-ar.init" category="Letter" script="arabic" production="uniFE8B" altNames="yehhamzaaboveinitialarabic" description="ARABIC LETTER YEH WITH HAMZA ABOVE INITIAL FORM" />
 	<glyph unicode="06CE" name="yehVabove-ar" category="Letter" script="arabic" production="uni06CE" description="ARABIC LETTER YEH WITH SMALL V" />
-	<glyph name="yehVabove-ar.fina" category="Letter" script="arabic" production="uni06CE.fina" description="ARABIC LETTER YEH WITH SMALL V" />
-	<glyph name="yehVabove-ar.medi" category="Letter" script="arabic" production="uni06CE.medi" description="ARABIC LETTER YEH WITH SMALL V" />
-	<glyph name="yehVabove-ar.init" category="Letter" script="arabic" production="uni06CE.init" description="ARABIC LETTER YEH WITH SMALL V" />
 	<glyph unicode="08A8" name="yehTwodotsbelowHamzaabove-ar" category="Letter" script="arabic" production="uni08A8" description="ARABIC LETTER YEH WITH TWO DOTS BELOW AND HAMZA ABOVE" />
 	<glyph unicode="08A9" name="yehTwodotsbelowDotabove-ar" category="Letter" script="arabic" production="uni08A9" description="ARABIC LETTER YEH WITH TWO DOTS BELOW AND DOT ABOVE" />
 	<glyph unicode="063D" name="yehVinverted-farsi" category="Letter" script="arabic" production="uni063D" description="ARABIC LETTER FARSI YEH WITH INVERTED V" />
@@ -3582,7 +3561,6 @@
 	<glyph unicode="FBDD" name="uHamzaabove-ar.isol" category="Letter" script="arabic" production="uniFBDD" description="ARABIC LETTER U WITH HAMZA ABOVE ISOLATED FORM" />
 	<glyph unicode="0678" name="highhamzaYeh-ar" category="Letter" script="arabic" production="uni0678" description="ARABIC LETTER HIGH HAMZA YEH" />
 	<glyph unicode="06D5" name="ae-ar" category="Letter" script="arabic" production="uni06D5" altNames="afii57534" description="ARABIC LETTER AE" />
-	<glyph name="ae-ar.fina" category="Letter" script="arabic" production="uni06D5.fina" description="ARABIC LETTER AE FINAL FORM" />
 	<glyph unicode="06E5" name="wawSmall-ar" category="Letter" subCategory="Modifier" script="arabic" production="uni06E5" description="ARABIC SMALL WAW" />
 	<glyph unicode="06E6" name="yehbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni06E6" description="ARABIC SMALL YEH" />
 	<glyph unicode="075C" name="seenFourdotsabove-ar" category="Letter" script="arabic" production="uni075C" description="ARABIC LETTER SEEN WITH FOUR DOTS ABOVE" />
@@ -4059,7 +4037,6 @@
 	<glyph unicode="0611" name="ainabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0611" description="ARABIC SIGN ALAYHE ASSALLAM" />
 	<glyph unicode="0614" name="takhallusabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0614" description="ARABIC SIGN TAKHALLUS" />
 	<glyph unicode="0615" name="tahabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0615" description="ARABIC SMALL HIGH TAH" />
-	<glyph name="tahcenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0615.alt" description="ARABIC SMALL HIGH TAH" />
 	<glyph unicode="FBC1" name="tahbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBC1" description="ARABIC SYMBOL SMALL TAH BELOW" />
 	<glyph unicode="0616" name="alefLamYehabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0616" description="ARABIC SMALL HIGH LIGATURE ALEF WITH LAM WITH YEH" />
 	<glyph unicode="0617" name="zainabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0617" description="ARABIC SMALL HIGH ZAIN" />
@@ -4068,34 +4045,17 @@
 	<glyph unicode="061A" name="kasrasmall-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni061A" description="ARABIC SMALL KASRA" />
 	<glyph unicode="FBB2" name="dotabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBB2" description="ARABIC DOT PUNCTUATION MARK" />
 	<glyph unicode="FBB3" name="dotbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBB3" description="ARABIC DOT PUNCTUATION MARK" />
-	<glyph name="dotcenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC DOT PUNCTUATION MARK" />
 	<glyph unicode="FBBD" name="twodotsverticalabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBBD" description="ARABIC TWO DOTS VERTICAL PUNCTUATION MARK" />
 	<glyph unicode="FBBE" name="twodotsverticalbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBBE" description="ARABIC TWO DOTS VERTICAL PUNCTUATION MARK" />
-	<glyph name="twodotsverticalcenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC TWO DOTS VERTICAL PUNCTUATION MARK" />
 	<glyph unicode="FBB4" name="twodotshorizontalabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBB4" description="ARABIC TWO DOTS HORIZONTAL PUNCTUATION MARK" />
 	<glyph unicode="FBB5" name="twodotshorizontalbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBB5" description="ARABIC TWO DOTS HORIZONTAL PUNCTUATION MARK" />
-	<glyph name="twodotshorizontalcenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC TWO DOTS HORIZONTAL PUNCTUATION MARK" />
 	<glyph unicode="061E" name="threedots-ar" category="Punctuation" script="arabic" production="uni061E" description="ARABIC TRIPLE DOT PUNCTUATION MARK" />
 	<glyph unicode="FBB8" name="threedotsdownabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBB8" description="ARABIC TRIPLE DOT DOWN PUNCTUATION MARK" />
 	<glyph unicode="FBB9" name="threedotsdownbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBB9" description="ARABIC TRIPLE DOT DOWN PUNCTUATION MARK" />
-	<glyph name="threedotsdowncenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC TRIPLE DOT DOWN PUNCTUATION MARK" />
 	<glyph unicode="FBB6" name="threedotsupabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBB6" description="ARABIC TRIPLE DOT UP PUNCTUATION MARK" />
 	<glyph unicode="FBB7" name="threedotsupbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBB7" description="ARABIC TRIPLE DOT UP PUNCTUATION MARK" />
-	<glyph name="threedotsupcenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC TRIPLE DOT UP PUNCTUATION MARK" />
-	<glyph name="threedotshorizontalabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="threedotshoriupar" description="ARABIC TRIPLE DOT HORIZONTAL PUNCTUATION MARK" />
-	<glyph name="threedotshorizontalbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="threedotshoridownar" description="ARABIC TRIPLE DOT HORIZONTAL PUNCTUATION MARK" />
 	<glyph unicode="FBBA" name="fourdotsabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBBA" description="ARABIC FOUR DOTS ABOVE PUNCTUATION MARK" />
 	<glyph unicode="FBBB" name="fourdotsbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBBB" description="ARABIC FOUR DOTS BELOW PUNCTUATION MARK" />
-	<glyph name="fourdotscenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC FOUR DOTS BELOW PUNCTUATION MARK" />
-	<glyph name="stroke-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC STROKE COMPONENT" />
-	<glyph name="fourabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC SMALL FOUR ABOVE" />
-	<glyph name="fourcenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC-INDIC SMALL DIGIT FOUR" />
-	<glyph name="fourbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC SMALL FOUR BELOW" />
-	<glyph name="threeabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC SMALL THREE ABOVE" />
-	<glyph name="twoabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC SMALL TWO ABOVE" />
-	<glyph name="ringbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC RING PUNCTUATION MARK" />
-	<glyph name="wasla-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC WASLA PUNCTUATION MARK" />
-	<glyph name="wavyhamzaabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC WAVY HAMZA ABOVE" />
 	<glyph unicode="065F" name="wavyhamzabelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni065F" description="ARABIC WAVY HAMZA BELOW" />
 	<glyph unicode="FBBF" name="ring-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBBF" description="ARABIC RING" />
 	<glyph name="ringcenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFBBF.alt" description="ARABIC RING" />
@@ -4103,14 +4063,6 @@
 	<glyph unicode="0656" name="alefbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0656" description="ARABIC SUBSCRIPT ALEF" />
 	<glyph unicode="0654" name="hamzaabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0654" description="ARABIC HAMZA ABOVE" />
 	<glyph unicode="0655" name="hamzabelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0655" description="ARABIC HAMZA BELOW" />
-	<glyph name="hamzacenter-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC HAMZA CENTER" />
-	<glyph name="hamzaaboveDamma-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Hamzaabove Damma" />
-	<glyph name="hamzaaboveDammatan-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Hamzaabove Dammatan" />
-	<glyph name="hamzaaboveFatha-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Hamzaabove Fatha" />
-	<glyph name="hamzaaboveFathatan-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Hamzaabove Fathatan" />
-	<glyph name="hamzaaboveSukun-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Hamzaabove Sukun" />
-	<glyph name="hamzabelowKasra-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Hamzabelow Kasra" />
-	<glyph name="hamzabelowKasratan-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Hamzabelow Kasratan" />
 	<glyph unicode="064B" name="fathatan-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni064B" altNames="afii57451, fathatanarabic" description="ARABIC FATHATAN" />
 	<glyph unicode="FE70" name="fathatan-ar.isol" category="Mark" subCategory="Spacing" script="arabic" production="uniFE70" description="ARABIC FATHATAN ISOLATED FORM" />
 	<glyph unicode="064C" name="dammatan-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni064C" altNames="afii57452, dammatanaltonearabic, dammatanarabic" description="ARABIC DAMMATAN" />
@@ -4127,7 +4079,6 @@
 	<glyph unicode="0651" name="shadda-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0651" altNames="afii57457, shaddaarabic" description="ARABIC SHADDA" />
 	<glyph unicode="FE7C" name="shadda-ar.isol" category="Mark" subCategory="Spacing" script="arabic" production="uniFE7C" description="ARABIC SHADDA ISOLATED FORM" />
 	<glyph unicode="FE7D" name="shadda-ar.medi" category="Letter" script="arabic" production="uniFE7D" description="ARABIC SHADDA MEDIAL FORM" />
-	<glyph name="shadda_fathatan-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0651064B" description="ARABIC LIGATURE SHADDA WITH FATHATAN ISOLATED FORM" />
 	<glyph unicode="FC5E" name="shadda_dammatan-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFC5E" altNames="shaddadammatanarabic" description="ARABIC LIGATURE SHADDA WITH DAMMATAN ISOLATED FORM" />
 	<glyph unicode="FC5F" name="shadda_kasratan-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFC5F" altNames="shaddakasratanarabic" description="ARABIC LIGATURE SHADDA WITH KASRATAN ISOLATED FORM" />
 	<glyph unicode="FC60" name="shadda_fatha-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uniFC60" altNames="shaddafathaarabic" description="ARABIC LIGATURE SHADDA WITH FATHA ISOLATED FORM" />
@@ -4141,20 +4092,11 @@
 	<glyph unicode="FE7E" name="sukun-ar.isol" category="Mark" subCategory="Spacing" script="arabic" production="uniFE7E" description="ARABIC SUKUN ISOLATED FORM" />
 	<glyph unicode="FE7F" name="sukun-ar.medi" category="Letter" script="arabic" production="uniFE7F" description="ARABIC SUKUN MEDIAL FORM" />
 	<glyph unicode="0653" name="madda-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0653" description="ARABIC MADDAH ABOVE" />
-	<glyph name="shaddaAlefabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Shadda Alefabove" />
-	<glyph name="shaddaDamma-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Shadda Damma" />
-	<glyph name="shaddaDammatan-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Shadda Dammatan" />
-	<glyph name="shaddaFatha-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Shadda Fatha" />
-	<glyph name="shaddaFathatan-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Shadda Fathatan" />
-	<glyph name="shaddaKasra-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Shadda Kasra" />
-	<glyph name="shaddaKasratan-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC Shadda Kasratan" />
 	<glyph unicode="0658" name="noonghunnaabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0658" description="ARABIC MARK NOON GHUNNA" />
 	<glyph unicode="0657" name="dammainverted-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0657" description="ARABIC INVERTED DAMMA" />
 	<glyph unicode="0659" name="fathaHorizont-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni0659" description="ARABIC ZWARAKAY" />
 	<glyph unicode="065A" name="vabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni065A" description="ARABIC VOWEL SIGN SMALL V ABOVE" />
-	<glyph name="vbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC VOWEL SIGN SMALL V BELOW" />
 	<glyph unicode="065B" name="vinvertedabove-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni065B" description="ARABIC VOWEL SIGN INVERTED SMALL V ABOVE" />
-	<glyph name="vinvertedbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" description="ARABIC VOWEL SIGN INVERTED SMALL V BELOW" />
 	<glyph unicode="065C" name="dotvowelbelow-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni065C" description="ARABIC VOWEL SIGN DOT BELOW" />
 	<glyph unicode="065D" name="dammareversed-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni065D" description="ARABIC REVERSED DAMMA" />
 	<glyph unicode="065E" name="fathatwodots-ar" category="Mark" subCategory="Nonspacing" script="arabic" production="uni065E" description="ARABIC FATHA WITH TWO DOTS" />
