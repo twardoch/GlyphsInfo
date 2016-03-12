@@ -7,3 +7,9 @@ the glyph names are derived from the AGL with some adjustments. For glyphs not i
 ## Ideograph Entries
 The Ideographs and Han glyphs are in a separate file to make it more manageable.
 
+## Contribution
+Please fork the repository and send pull requests for missing scripts, changes and misspellings.
+
+## Todo and known issues
+The list does not cover the full Unicode. I add script ranges on request as i like to check/edit the results and that is easier if someone involved in that script is around.
+
