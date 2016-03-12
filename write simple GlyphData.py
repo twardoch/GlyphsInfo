@@ -5,9 +5,11 @@ infos = GSGlyphsInfo.sharedManager().glyphInfos()
 # or:
 # infos = GSGlyphsInfo.alloc().initWithLocalFile_(NSURL.fileURLWithPath_("path to custom GlyphData.xml file"))
 
-f = open("GlyphData.xml", "w")
+f = open("/Users/georg/Programmierung/Stuff/GlyphsInfo/GlyphData.xml", "w")
+fIdeo = open("/Users/georg/Programmierung/Stuff/GlyphsInfo/GlyphData_Ideographs.xml", "w")
 
-f.write('<?xml version="1.0" encoding="UTF-8" ?>\n\
+def writeHeader(f):
+	f.write('<?xml version="1.0" encoding="UTF-8" ?>\n\
 <!DOCTYPE glyphData [\n\
 <!ELEMENT glyphData (glyph)+>\n\
 <!ELEMENT glyph EMPTY>\n\
@@ -22,6 +24,9 @@ f.write('<?xml version="1.0" encoding="UTF-8" ?>\n\
 	altNames		CDATA		#IMPLIED\n\
 ]>\n\
 <glyphData>\n')
+
+writeHeader(f)
+writeHeader(fIdeo)
 
 disabledGlyphs = ["brevecomb_acutecomb",
 				"brevecomb_gravecomb",
@@ -61,13 +66,17 @@ def printInfo(info):
 	
 count = 0
 for info in infos:
-	if (info.name in disabledGlyphs or info.name.startswith("uni") or info.script == "han" or (info.script == "arabic" and info.unicode is None)) and (info.name not in forcedGlyphs):
+	if info.script == "han":
+		fIdeo.write(printInfo(info))
+	elif (info.name in disabledGlyphs or (info.script == "arabic" and info.unicode is None)) and (info.name not in forcedGlyphs):
 		continue
-	f.write(printInfo(info))
+	else:
+		f.write(printInfo(info))
 	count += 1
 
 print "Written %d entries" % count
 f.write('</glyphData>\n')
-
+fIdeo.write('</glyphData>\n')
 
 f.close()
+fIdeo.close()

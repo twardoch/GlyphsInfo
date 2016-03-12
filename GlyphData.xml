@@ -21536,6 +21536,7 @@
 	<glyph unicode="21DE" name="pageup" category="Symbol" production="uni21DE" description="UPWARDS ARROW WITH DOUBLE STROKE" />
 	<glyph unicode="21DF" name="pagedown" category="Symbol" production="uni21DF" description="DOWNWARDS ARROW WITH DOUBLE STROKE" />
 	<glyph unicode="21EA" name="capslock" category="Symbol" production="uni21EA" description="UPWARDS WHITE ARROW FROM BAR" />
+	<glyph unicode="2200" name="universal" category="Symbol" subCategory="Math" altNames="forall" description="FOR ALL" />
 	<glyph unicode="2201" name="complement" category="Symbol" subCategory="Math" production="uni2201" description="COMPLEMENT" />
 	<glyph unicode="2202" name="partialdiff" category="Symbol" subCategory="Math" description="PARTIAL DIFFERENTIAL" />
 	<glyph unicode="2203" name="existential" category="Symbol" subCategory="Math" altNames="thereexists" description="THERE EXISTS" />
@@ -21577,6 +21578,7 @@
 	<glyph unicode="2227" name="logicaland" category="Symbol" subCategory="Math" description="LOGICAL AND" />
 	<glyph unicode="2228" name="logicalor" category="Symbol" subCategory="Math" description="LOGICAL OR" />
 	<glyph unicode="2229" name="intersection" category="Symbol" subCategory="Math" description="INTERSECTION" />
+	<glyph unicode="222A" name="union" category="Symbol" subCategory="Math" description="UNION" />
 	<glyph unicode="222B" name="integral" category="Symbol" subCategory="Math" description="INTEGRAL" />
 	<glyph unicode="222C" name="dblintegral" category="Symbol" subCategory="Math" production="uni222C" description="DOUBLE INTEGRAL" />
 	<glyph unicode="222D" name="tripleintegral" category="Symbol" subCategory="Math" production="uni222D" description="TRIPLE INTEGRAL" />
@@ -22070,6 +22072,7 @@
 	<glyph unicode="241C" name="fileSeparator-control" category="Symbol" production="uni241C" description="SYMBOL FOR FILE SEPARATOR" />
 	<glyph unicode="241D" name="groupSeparator-control" category="Symbol" production="uni241D" description="SYMBOL FOR GROUP SEPARATOR" />
 	<glyph unicode="241E" name="recordSeparator-control" category="Symbol" production="uni241E" description="SYMBOL FOR RECORD SEPARATOR" />
+	<glyph unicode="241F" name="unitSeparator-control" category="Symbol" production="uni241F" description="SYMBOL FOR UNIT SEPARATOR" />
 	<glyph unicode="2420" name="space-control" category="Symbol" production="uni2420" description="SYMBOL FOR SPACE" />
 	<glyph unicode="2421" name="delete-control" category="Symbol" production="uni2421" description="SYMBOL FOR DELETE" />
 	<glyph unicode="2422" name="blankSymbol" category="Symbol" production="uni2422" description="BLANK SYMBOL" />
@@ -23543,10 +23546,16 @@
 	<glyph unicode="2A3E" name="zNotationRelationalComposition" category="Symbol" subCategory="Math" production="uni2A3E" description="Z NOTATION RELATIONAL COMPOSITION" />
 	<glyph unicode="2A3F" name="amalgamationOrCoproduct" category="Symbol" subCategory="Math" production="uni2A3F" description="AMALGAMATION OR COPRODUCT" />
 	<glyph unicode="2A40" name="intersectionWithDot" category="Symbol" subCategory="Math" production="uni2A40" description="INTERSECTION WITH DOT" />
+	<glyph unicode="2A41" name="unionWithMinusSign" category="Symbol" subCategory="Math" production="uni2A41" description="UNION WITH MINUS SIGN" />
+	<glyph unicode="2A42" name="unionWithOverbar" category="Symbol" subCategory="Math" production="uni2A42" description="UNION WITH OVERBAR" />
 	<glyph unicode="2A43" name="intersectionWithOverbar" category="Symbol" subCategory="Math" production="uni2A43" description="INTERSECTION WITH OVERBAR" />
 	<glyph unicode="2A44" name="intersectionWithLogicalAnd" category="Symbol" subCategory="Math" production="uni2A44" description="INTERSECTION WITH LOGICAL AND" />
+	<glyph unicode="2A45" name="unionWithLogicalOr" category="Symbol" subCategory="Math" production="uni2A45" description="UNION WITH LOGICAL OR" />
+	<glyph unicode="2A46" name="unionAboveIntersection" category="Symbol" subCategory="Math" production="uni2A46" description="UNION ABOVE INTERSECTION" />
 	<glyph unicode="2A47" name="intersectionAboveUnion" category="Symbol" subCategory="Math" production="uni2A47" description="INTERSECTION ABOVE UNION" />
+	<glyph unicode="2A48" name="unionAboveBarAboveIntersection" category="Symbol" subCategory="Math" production="uni2A48" description="UNION ABOVE BAR ABOVE INTERSECTION" />
 	<glyph unicode="2A49" name="intersectionAboveBarAboveUnion" category="Symbol" subCategory="Math" production="uni2A49" description="INTERSECTION ABOVE BAR ABOVE UNION" />
+	<glyph unicode="2A4A" name="unionBesideAndJoinedWithUnion" category="Symbol" subCategory="Math" production="uni2A4A" description="UNION BESIDE AND JOINED WITH UNION" />
 	<glyph unicode="2A4B" name="intersectionBesideAndJoinedWithIntersection" category="Symbol" subCategory="Math" production="uni2A4B" description="INTERSECTION BESIDE AND JOINED WITH INTERSECTION" />
 	<glyph unicode="2A4C" name="closedUnionWithSerifs" category="Symbol" subCategory="Math" production="uni2A4C" description="CLOSED UNION WITH SERIFS" />
 	<glyph unicode="2A4D" name="closedIntersectionWithSerifs" category="Symbol" subCategory="Math" production="uni2A4D" description="CLOSED INTERSECTION WITH SERIFS" />
@@ -25661,5 +25670,6 @@
 	<glyph unicode="1F981" name="lionFace" category="Symbol" production="uni1F981" description="LION FACE" />
 	<glyph unicode="1F982" name="scorpion" category="Symbol" production="uni1F982" description="SCORPION" />
 	<glyph unicode="1F983" name="turkey" category="Symbol" production="uni1F983" description="TURKEY" />
+	<glyph unicode="1F984" name="unicornFace" category="Symbol" production="uni1F984" description="UNICORN FACE" />
 	<glyph unicode="1F9C0" name="cheeseWedge" category="Symbol" production="uni1F9C0" description="CHEESE WEDGE" />
 </glyphData>
