@@ -976,10 +976,10 @@
 	<glyph unicode="1AB8" name="doubleopenmarkbelowcomb" category="Mark" subCategory="Nonspacing" production="uni1AB8" description="COMBINING DOUBLE OPEN MARK BELOW" />
 	<glyph unicode="1AB9" name="lightcentralizationstrokebelowcomb" category="Mark" subCategory="Nonspacing" production="uni1AB9" description="COMBINING LIGHT CENTRALIZATION STROKE BELOW" />
 	<glyph unicode="1ABA" name="strongcentralizationstrokebelowcomb" category="Mark" subCategory="Nonspacing" production="uni1ABA" description="COMBINING STRONG CENTRALIZATION STROKE BELOW" />
-	<glyph unicode="1ABB" name="parenthesesabovecomb" category="Mark" subCategory="Nonspacing" production="uni1ABB" description="COMBINING PARENTHESES ABOVE" />
-	<glyph unicode="1ABC" name="doubleparenthesesabovecomb" category="Mark" subCategory="Nonspacing" production="uni1ABC" description="COMBINING DOUBLE PARENTHESES ABOVE" />
-	<glyph unicode="1ABD" name="parenthesesbelowcomb" category="Mark" subCategory="Nonspacing" production="uni1ABD" description="COMBINING PARENTHESES BELOW" />
-	<glyph unicode="1ABE" name="parenthesesoverlaycomb" category="Mark" subCategory="Enclosing" production="uni1ABE" description="COMBINING PARENTHESES OVERLAY" />
+	<glyph unicode="1ABB" name="parentabovecomb" category="Mark" subCategory="Nonspacing" production="uni1ABB" description="COMBINING PARENTHESES ABOVE" />
+	<glyph unicode="1ABC" name="doubleparentabovecomb" category="Mark" subCategory="Nonspacing" production="uni1ABC" description="COMBINING DOUBLE PARENTHESES ABOVE" />
+	<glyph unicode="1ABD" name="parentbelowcomb" category="Mark" subCategory="Nonspacing" production="uni1ABD" description="COMBINING PARENTHESES BELOW" />
+	<glyph unicode="1ABE" name="parentoverlaycomb" category="Mark" subCategory="Enclosing" production="uni1ABE" description="COMBINING PARENTHESES OVERLAY" />
 	<glyph unicode="0363" name="acomb" category="Mark" subCategory="Nonspacing" script="latin" production="uni0363" description="COMBINING LATIN SMALL LETTER A" />
 	<glyph unicode="0364" name="ecomb" category="Mark" subCategory="Nonspacing" script="latin" production="uni0364" description="COMBINING LATIN SMALL LETTER E" />
 	<glyph unicode="0365" name="icomb" category="Mark" subCategory="Nonspacing" script="latin" production="uni0365" description="COMBINING LATIN SMALL LETTER I" />
