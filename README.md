@@ -1,21 +1,9 @@
 # GlyphsInfo
 This is the basic subset of the glyph info that is used inside Glyphs.app.
 
-##Ideograph Entries
-The following ranges are not included in the file as they don’t get a proper name:
+## Readable Names
+the glyph names are derived from the AGL with some adjustments. For glyphs not in that list a name is invented. It’s mostly based on the unicode description but heavily edited to produce short and readable names. To distinguish different scripts, a hyphen+script tag is appended. For common scripts like Arabic and Cyrillic a short version is used (-ar, -cy). Most other scripts just get the full script name to make it easier for people that are not familiar with those scripts.
 
-Range: 0x2E80 – 0x2E99, 0x2E9B – 0x2EF3, 0x2F00 – 0x2FD5
-script: han
-category: Letter
-subCategory: Radical
+## Ideograph Entries
+The Ideographs and Han glyphs are in a separate file to make it more manageable.
 
-Range: 0x3400 – 0x9FCC
-script: han
-category: Letter
-
-Range: 0xF900 – 0xFAD9, F860, F861, F862, F87A, F87F
-script: han
-category: Letter
-subCategory: Compatibility
-
-TODO: add list of upper plain Ideaographs
