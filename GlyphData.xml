@@ -10,7 +10,7 @@
 	script			CDATA		#IMPLIED
 	description		CDATA		#REQUIRED
 	production		CDATA		#IMPLIED
-	altNames		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED>
 ]>
 <glyphData>
 	<glyph name=".notdef" category="Separator" description="NOTDEF" />
