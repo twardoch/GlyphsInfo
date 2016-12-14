@@ -10,7 +10,7 @@
 	script			CDATA		#IMPLIED
 	description		CDATA		#REQUIRED
 	production		CDATA		#IMPLIED
-	altNames		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED>
 ]>
 <glyphData>
 	<glyph unicode="2FF0" name="descriptionLeftToRight-han" category="Symbol" script="han" production="uni2FF0" description="IDEOGRAPHIC DESCRIPTION CHARACTER LEFT TO RIGHT" />
