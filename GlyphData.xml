@@ -21902,254 +21902,254 @@
 	<glyph unicode="214D" name="aktieselskab" category="Symbol" production="uni214D" description="AKTIESELSKAB" />
 	<glyph unicode="214E" name="fturned" category="Letter" subCategory="Lowercase" production="uni214E" description="TURNED SMALL F" />
 	<glyph unicode="214F" name="samaritansource" category="Symbol" production="uni214F" description="SYMBOL FOR SAMARITAN SOURCE" />
-	<glyph unicode="1D400" name="Abold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D400" description="MATHEMATICAL BOLD CAPITAL A" />
-	<glyph unicode="1D401" name="Bbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D401" description="MATHEMATICAL BOLD CAPITAL B" />
-	<glyph unicode="1D402" name="Cbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D402" description="MATHEMATICAL BOLD CAPITAL C" />
-	<glyph unicode="1D403" name="Dbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D403" description="MATHEMATICAL BOLD CAPITAL D" />
-	<glyph unicode="1D404" name="Ebold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D404" description="MATHEMATICAL BOLD CAPITAL E" />
-	<glyph unicode="1D405" name="Fbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D405" description="MATHEMATICAL BOLD CAPITAL F" />
-	<glyph unicode="1D406" name="Gbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D406" description="MATHEMATICAL BOLD CAPITAL G" />
-	<glyph unicode="1D407" name="Hbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D407" description="MATHEMATICAL BOLD CAPITAL H" />
-	<glyph unicode="1D408" name="Ibold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D408" description="MATHEMATICAL BOLD CAPITAL I" />
-	<glyph unicode="1D409" name="Jbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D409" description="MATHEMATICAL BOLD CAPITAL J" />
-	<glyph unicode="1D40A" name="Kbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D40A" description="MATHEMATICAL BOLD CAPITAL K" />
-	<glyph unicode="1D40B" name="Lbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D40B" description="MATHEMATICAL BOLD CAPITAL L" />
-	<glyph unicode="1D40C" name="Mbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D40C" description="MATHEMATICAL BOLD CAPITAL M" />
-	<glyph unicode="1D40D" name="Nbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D40D" description="MATHEMATICAL BOLD CAPITAL N" />
-	<glyph unicode="1D40E" name="Obold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D40E" description="MATHEMATICAL BOLD CAPITAL O" />
-	<glyph unicode="1D40F" name="Pbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D40F" description="MATHEMATICAL BOLD CAPITAL P" />
-	<glyph unicode="1D410" name="Qbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D410" description="MATHEMATICAL BOLD CAPITAL Q" />
-	<glyph unicode="1D411" name="Rbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D411" description="MATHEMATICAL BOLD CAPITAL R" />
-	<glyph unicode="1D412" name="Sbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D412" description="MATHEMATICAL BOLD CAPITAL S" />
-	<glyph unicode="1D413" name="Tbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D413" description="MATHEMATICAL BOLD CAPITAL T" />
-	<glyph unicode="1D414" name="Ubold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D414" description="MATHEMATICAL BOLD CAPITAL U" />
-	<glyph unicode="1D415" name="Vbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D415" description="MATHEMATICAL BOLD CAPITAL V" />
-	<glyph unicode="1D416" name="Wbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D416" description="MATHEMATICAL BOLD CAPITAL W" />
-	<glyph unicode="1D417" name="Xbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D417" description="MATHEMATICAL BOLD CAPITAL X" />
-	<glyph unicode="1D418" name="Ybold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D418" description="MATHEMATICAL BOLD CAPITAL Y" />
-	<glyph unicode="1D419" name="Zbold-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D419" description="MATHEMATICAL BOLD CAPITAL Z" />
-	<glyph unicode="1D41A" name="abold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D41A" description="MATHEMATICAL BOLD SMALL A" />
-	<glyph unicode="1D41B" name="bbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D41B" description="MATHEMATICAL BOLD SMALL B" />
-	<glyph unicode="1D41C" name="cbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D41C" description="MATHEMATICAL BOLD SMALL C" />
-	<glyph unicode="1D41D" name="dbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D41D" description="MATHEMATICAL BOLD SMALL D" />
-	<glyph unicode="1D41E" name="ebold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D41E" description="MATHEMATICAL BOLD SMALL E" />
-	<glyph unicode="1D41F" name="fbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D41F" description="MATHEMATICAL BOLD SMALL F" />
-	<glyph unicode="1D420" name="gbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D420" description="MATHEMATICAL BOLD SMALL G" />
-	<glyph unicode="1D421" name="hbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D421" description="MATHEMATICAL BOLD SMALL H" />
-	<glyph unicode="1D422" name="ibold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D422" description="MATHEMATICAL BOLD SMALL I" />
-	<glyph unicode="1D423" name="jbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D423" description="MATHEMATICAL BOLD SMALL J" />
-	<glyph unicode="1D424" name="kbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D424" description="MATHEMATICAL BOLD SMALL K" />
-	<glyph unicode="1D425" name="lbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D425" description="MATHEMATICAL BOLD SMALL L" />
-	<glyph unicode="1D426" name="mbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D426" description="MATHEMATICAL BOLD SMALL M" />
-	<glyph unicode="1D427" name="nbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D427" description="MATHEMATICAL BOLD SMALL N" />
-	<glyph unicode="1D428" name="obold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D428" description="MATHEMATICAL BOLD SMALL O" />
-	<glyph unicode="1D429" name="pbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D429" description="MATHEMATICAL BOLD SMALL P" />
-	<glyph unicode="1D42A" name="qbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D42A" description="MATHEMATICAL BOLD SMALL Q" />
-	<glyph unicode="1D42B" name="rbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D42B" description="MATHEMATICAL BOLD SMALL R" />
-	<glyph unicode="1D42C" name="sbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D42C" description="MATHEMATICAL BOLD SMALL S" />
-	<glyph unicode="1D42D" name="tbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D42D" description="MATHEMATICAL BOLD SMALL T" />
-	<glyph unicode="1D42E" name="ubold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D42E" description="MATHEMATICAL BOLD SMALL U" />
-	<glyph unicode="1D42F" name="vbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D42F" description="MATHEMATICAL BOLD SMALL V" />
-	<glyph unicode="1D430" name="wbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D430" description="MATHEMATICAL BOLD SMALL W" />
-	<glyph unicode="1D431" name="xbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D431" description="MATHEMATICAL BOLD SMALL X" />
-	<glyph unicode="1D432" name="ybold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D432" description="MATHEMATICAL BOLD SMALL Y" />
-	<glyph unicode="1D433" name="zbold-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D433" description="MATHEMATICAL BOLD SMALL Z" />
-	<glyph unicode="1D434" name="Aitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D434" description="MATHEMATICAL ITALIC CAPITAL A" />
-	<glyph unicode="1D435" name="Bitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D435" description="MATHEMATICAL ITALIC CAPITAL B" />
-	<glyph unicode="1D436" name="Citalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D436" description="MATHEMATICAL ITALIC CAPITAL C" />
-	<glyph unicode="1D437" name="Ditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D437" description="MATHEMATICAL ITALIC CAPITAL D" />
-	<glyph unicode="1D438" name="Eitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D438" description="MATHEMATICAL ITALIC CAPITAL E" />
-	<glyph unicode="1D439" name="Fitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D439" description="MATHEMATICAL ITALIC CAPITAL F" />
-	<glyph unicode="1D43A" name="Gitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D43A" description="MATHEMATICAL ITALIC CAPITAL G" />
-	<glyph unicode="1D43B" name="Hitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D43B" description="MATHEMATICAL ITALIC CAPITAL H" />
-	<glyph unicode="1D43C" name="Iitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D43C" description="MATHEMATICAL ITALIC CAPITAL I" />
-	<glyph unicode="1D43D" name="Jitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D43D" description="MATHEMATICAL ITALIC CAPITAL J" />
-	<glyph unicode="1D43E" name="Kitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D43E" description="MATHEMATICAL ITALIC CAPITAL K" />
-	<glyph unicode="1D43F" name="Litalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D43F" description="MATHEMATICAL ITALIC CAPITAL L" />
-	<glyph unicode="1D440" name="Mitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D440" description="MATHEMATICAL ITALIC CAPITAL M" />
-	<glyph unicode="1D441" name="Nitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D441" description="MATHEMATICAL ITALIC CAPITAL N" />
-	<glyph unicode="1D442" name="Oitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D442" description="MATHEMATICAL ITALIC CAPITAL O" />
-	<glyph unicode="1D443" name="Pitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D443" description="MATHEMATICAL ITALIC CAPITAL P" />
-	<glyph unicode="1D444" name="Qitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D444" description="MATHEMATICAL ITALIC CAPITAL Q" />
-	<glyph unicode="1D445" name="Ritalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D445" description="MATHEMATICAL ITALIC CAPITAL R" />
-	<glyph unicode="1D446" name="Sitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D446" description="MATHEMATICAL ITALIC CAPITAL S" />
-	<glyph unicode="1D447" name="Titalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D447" description="MATHEMATICAL ITALIC CAPITAL T" />
-	<glyph unicode="1D448" name="Uitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D448" description="MATHEMATICAL ITALIC CAPITAL U" />
-	<glyph unicode="1D449" name="Vitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D449" description="MATHEMATICAL ITALIC CAPITAL V" />
-	<glyph unicode="1D44A" name="Witalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D44A" description="MATHEMATICAL ITALIC CAPITAL W" />
-	<glyph unicode="1D44B" name="Xitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D44B" description="MATHEMATICAL ITALIC CAPITAL X" />
-	<glyph unicode="1D44C" name="Yitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D44C" description="MATHEMATICAL ITALIC CAPITAL Y" />
-	<glyph unicode="1D44D" name="Zitalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D44D" description="MATHEMATICAL ITALIC CAPITAL Z" />
-	<glyph unicode="1D44E" name="aitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D44E" description="MATHEMATICAL ITALIC SMALL A" />
-	<glyph unicode="1D44F" name="bitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D44F" description="MATHEMATICAL ITALIC SMALL B" />
-	<glyph unicode="1D450" name="citalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D450" description="MATHEMATICAL ITALIC SMALL C" />
-	<glyph unicode="1D451" name="ditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D451" description="MATHEMATICAL ITALIC SMALL D" />
-	<glyph unicode="1D452" name="eitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D452" description="MATHEMATICAL ITALIC SMALL E" />
-	<glyph unicode="1D453" name="fitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D453" description="MATHEMATICAL ITALIC SMALL F" />
-	<glyph unicode="1D454" name="gitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D454" description="MATHEMATICAL ITALIC SMALL G" />
-	<glyph unicode="1D456" name="iitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D456" description="MATHEMATICAL ITALIC SMALL I" />
-	<glyph unicode="1D457" name="jitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D457" description="MATHEMATICAL ITALIC SMALL J" />
-	<glyph unicode="1D458" name="kitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D458" description="MATHEMATICAL ITALIC SMALL K" />
-	<glyph unicode="1D459" name="litalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D459" description="MATHEMATICAL ITALIC SMALL L" />
-	<glyph unicode="1D45A" name="mitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D45A" description="MATHEMATICAL ITALIC SMALL M" />
-	<glyph unicode="1D45B" name="nitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D45B" description="MATHEMATICAL ITALIC SMALL N" />
-	<glyph unicode="1D45C" name="oitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D45C" description="MATHEMATICAL ITALIC SMALL O" />
-	<glyph unicode="1D45D" name="pitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D45D" description="MATHEMATICAL ITALIC SMALL P" />
-	<glyph unicode="1D45E" name="qitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D45E" description="MATHEMATICAL ITALIC SMALL Q" />
-	<glyph unicode="1D45F" name="ritalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D45F" description="MATHEMATICAL ITALIC SMALL R" />
-	<glyph unicode="1D460" name="sitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D460" description="MATHEMATICAL ITALIC SMALL S" />
-	<glyph unicode="1D461" name="titalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D461" description="MATHEMATICAL ITALIC SMALL T" />
-	<glyph unicode="1D462" name="uitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D462" description="MATHEMATICAL ITALIC SMALL U" />
-	<glyph unicode="1D463" name="vitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D463" description="MATHEMATICAL ITALIC SMALL V" />
-	<glyph unicode="1D464" name="witalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D464" description="MATHEMATICAL ITALIC SMALL W" />
-	<glyph unicode="1D465" name="xitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D465" description="MATHEMATICAL ITALIC SMALL X" />
-	<glyph unicode="1D466" name="yitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D466" description="MATHEMATICAL ITALIC SMALL Y" />
-	<glyph unicode="1D467" name="zitalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D467" description="MATHEMATICAL ITALIC SMALL Z" />
-	<glyph unicode="1D468" name="Abolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D468" description="MATHEMATICAL BOLD ITALIC CAPITAL A" />
-	<glyph unicode="1D469" name="Bbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D469" description="MATHEMATICAL BOLD ITALIC CAPITAL B" />
-	<glyph unicode="1D46A" name="Cbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D46A" description="MATHEMATICAL BOLD ITALIC CAPITAL C" />
-	<glyph unicode="1D46B" name="Dbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D46B" description="MATHEMATICAL BOLD ITALIC CAPITAL D" />
-	<glyph unicode="1D46C" name="Ebolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D46C" description="MATHEMATICAL BOLD ITALIC CAPITAL E" />
-	<glyph unicode="1D46D" name="Fbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D46D" description="MATHEMATICAL BOLD ITALIC CAPITAL F" />
-	<glyph unicode="1D46E" name="Gbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D46E" description="MATHEMATICAL BOLD ITALIC CAPITAL G" />
-	<glyph unicode="1D46F" name="Hbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D46F" description="MATHEMATICAL BOLD ITALIC CAPITAL H" />
-	<glyph unicode="1D470" name="Ibolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D470" description="MATHEMATICAL BOLD ITALIC CAPITAL I" />
-	<glyph unicode="1D471" name="Jbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D471" description="MATHEMATICAL BOLD ITALIC CAPITAL J" />
-	<glyph unicode="1D472" name="Kbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D472" description="MATHEMATICAL BOLD ITALIC CAPITAL K" />
-	<glyph unicode="1D473" name="Lbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D473" description="MATHEMATICAL BOLD ITALIC CAPITAL L" />
-	<glyph unicode="1D474" name="Mbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D474" description="MATHEMATICAL BOLD ITALIC CAPITAL M" />
-	<glyph unicode="1D475" name="Nbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D475" description="MATHEMATICAL BOLD ITALIC CAPITAL N" />
-	<glyph unicode="1D476" name="Obolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D476" description="MATHEMATICAL BOLD ITALIC CAPITAL O" />
-	<glyph unicode="1D477" name="Pbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D477" description="MATHEMATICAL BOLD ITALIC CAPITAL P" />
-	<glyph unicode="1D478" name="Qbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D478" description="MATHEMATICAL BOLD ITALIC CAPITAL Q" />
-	<glyph unicode="1D479" name="Rbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D479" description="MATHEMATICAL BOLD ITALIC CAPITAL R" />
-	<glyph unicode="1D47A" name="Sbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D47A" description="MATHEMATICAL BOLD ITALIC CAPITAL S" />
-	<glyph unicode="1D47B" name="Tbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D47B" description="MATHEMATICAL BOLD ITALIC CAPITAL T" />
-	<glyph unicode="1D47C" name="Ubolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D47C" description="MATHEMATICAL BOLD ITALIC CAPITAL U" />
-	<glyph unicode="1D47D" name="Vbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D47D" description="MATHEMATICAL BOLD ITALIC CAPITAL V" />
-	<glyph unicode="1D47E" name="Wbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D47E" description="MATHEMATICAL BOLD ITALIC CAPITAL W" />
-	<glyph unicode="1D47F" name="Xbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D47F" description="MATHEMATICAL BOLD ITALIC CAPITAL X" />
-	<glyph unicode="1D480" name="Ybolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D480" description="MATHEMATICAL BOLD ITALIC CAPITAL Y" />
-	<glyph unicode="1D481" name="Zbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D481" description="MATHEMATICAL BOLD ITALIC CAPITAL Z" />
-	<glyph unicode="1D482" name="abolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D482" description="MATHEMATICAL BOLD ITALIC SMALL A" />
-	<glyph unicode="1D483" name="bbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D483" description="MATHEMATICAL BOLD ITALIC SMALL B" />
-	<glyph unicode="1D484" name="cbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D484" description="MATHEMATICAL BOLD ITALIC SMALL C" />
-	<glyph unicode="1D485" name="dbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D485" description="MATHEMATICAL BOLD ITALIC SMALL D" />
-	<glyph unicode="1D486" name="ebolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D486" description="MATHEMATICAL BOLD ITALIC SMALL E" />
-	<glyph unicode="1D487" name="fbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D487" description="MATHEMATICAL BOLD ITALIC SMALL F" />
-	<glyph unicode="1D488" name="gbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D488" description="MATHEMATICAL BOLD ITALIC SMALL G" />
-	<glyph unicode="1D489" name="hbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D489" description="MATHEMATICAL BOLD ITALIC SMALL H" />
-	<glyph unicode="1D48A" name="ibolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D48A" description="MATHEMATICAL BOLD ITALIC SMALL I" />
-	<glyph unicode="1D48B" name="jbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D48B" description="MATHEMATICAL BOLD ITALIC SMALL J" />
-	<glyph unicode="1D48C" name="kbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D48C" description="MATHEMATICAL BOLD ITALIC SMALL K" />
-	<glyph unicode="1D48D" name="lbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D48D" description="MATHEMATICAL BOLD ITALIC SMALL L" />
-	<glyph unicode="1D48E" name="mbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D48E" description="MATHEMATICAL BOLD ITALIC SMALL M" />
-	<glyph unicode="1D48F" name="nbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D48F" description="MATHEMATICAL BOLD ITALIC SMALL N" />
-	<glyph unicode="1D490" name="obolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D490" description="MATHEMATICAL BOLD ITALIC SMALL O" />
-	<glyph unicode="1D491" name="pbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D491" description="MATHEMATICAL BOLD ITALIC SMALL P" />
-	<glyph unicode="1D492" name="qbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D492" description="MATHEMATICAL BOLD ITALIC SMALL Q" />
-	<glyph unicode="1D493" name="rbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D493" description="MATHEMATICAL BOLD ITALIC SMALL R" />
-	<glyph unicode="1D494" name="sbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D494" description="MATHEMATICAL BOLD ITALIC SMALL S" />
-	<glyph unicode="1D495" name="tbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D495" description="MATHEMATICAL BOLD ITALIC SMALL T" />
-	<glyph unicode="1D496" name="ubolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D496" description="MATHEMATICAL BOLD ITALIC SMALL U" />
-	<glyph unicode="1D497" name="vbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D497" description="MATHEMATICAL BOLD ITALIC SMALL V" />
-	<glyph unicode="1D498" name="wbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D498" description="MATHEMATICAL BOLD ITALIC SMALL W" />
-	<glyph unicode="1D499" name="xbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D499" description="MATHEMATICAL BOLD ITALIC SMALL X" />
-	<glyph unicode="1D49A" name="ybolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D49A" description="MATHEMATICAL BOLD ITALIC SMALL Y" />
-	<glyph unicode="1D49B" name="zbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D49B" description="MATHEMATICAL BOLD ITALIC SMALL Z" />
-	<glyph unicode="1D49C" name="Ascript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D49C" description="MATHEMATICAL SCRIPT CAPITAL A" />
-	<glyph unicode="1D49E" name="Cscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D49E" description="MATHEMATICAL SCRIPT CAPITAL C" />
-	<glyph unicode="1D49F" name="Dscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D49F" description="MATHEMATICAL SCRIPT CAPITAL D" />
-	<glyph unicode="1D4A2" name="Gscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4A2" description="MATHEMATICAL SCRIPT CAPITAL G" />
-	<glyph unicode="1D4A5" name="Jscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4A5" description="MATHEMATICAL SCRIPT CAPITAL J" />
-	<glyph unicode="1D4A6" name="Kscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4A6" description="MATHEMATICAL SCRIPT CAPITAL K" />
-	<glyph unicode="1D4A9" name="Nscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4A9" description="MATHEMATICAL SCRIPT CAPITAL N" />
-	<glyph unicode="1D4AA" name="Oscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4AA" description="MATHEMATICAL SCRIPT CAPITAL O" />
-	<glyph unicode="1D4AB" name="Pscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4AB" description="MATHEMATICAL SCRIPT CAPITAL P" />
-	<glyph unicode="1D4AC" name="Qscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4AC" description="MATHEMATICAL SCRIPT CAPITAL Q" />
-	<glyph unicode="1D4AE" name="Sscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4AE" description="MATHEMATICAL SCRIPT CAPITAL S" />
-	<glyph unicode="1D4AF" name="Tscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4AF" description="MATHEMATICAL SCRIPT CAPITAL T" />
-	<glyph unicode="1D4B0" name="Uscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4B0" description="MATHEMATICAL SCRIPT CAPITAL U" />
-	<glyph unicode="1D4B1" name="Vscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4B1" description="MATHEMATICAL SCRIPT CAPITAL V" />
-	<glyph unicode="1D4B2" name="Wscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4B2" description="MATHEMATICAL SCRIPT CAPITAL W" />
-	<glyph unicode="1D4B3" name="Xscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4B3" description="MATHEMATICAL SCRIPT CAPITAL X" />
-	<glyph unicode="1D4B4" name="Yscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4B4" description="MATHEMATICAL SCRIPT CAPITAL Y" />
-	<glyph unicode="1D4B5" name="Zscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4B5" description="MATHEMATICAL SCRIPT CAPITAL Z" />
-	<glyph unicode="1D4B6" name="ascript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4B6" description="MATHEMATICAL SCRIPT SMALL A" />
-	<glyph unicode="1D4B7" name="bscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4B7" description="MATHEMATICAL SCRIPT SMALL B" />
-	<glyph unicode="1D4B8" name="cscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4B8" description="MATHEMATICAL SCRIPT SMALL C" />
-	<glyph unicode="1D4B9" name="dscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4B9" description="MATHEMATICAL SCRIPT SMALL D" />
-	<glyph unicode="1D4BB" name="fscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4BB" description="MATHEMATICAL SCRIPT SMALL F" />
-	<glyph unicode="1D4BD" name="hscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4BD" description="MATHEMATICAL SCRIPT SMALL H" />
-	<glyph unicode="1D4BE" name="iscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4BE" description="MATHEMATICAL SCRIPT SMALL I" />
-	<glyph unicode="1D4BF" name="jscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4BF" description="MATHEMATICAL SCRIPT SMALL J" />
-	<glyph unicode="1D4C0" name="kscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4C0" description="MATHEMATICAL SCRIPT SMALL K" />
-	<glyph unicode="1D4C1" name="lscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4C1" description="MATHEMATICAL SCRIPT SMALL L" />
-	<glyph unicode="1D4C2" name="mscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4C2" description="MATHEMATICAL SCRIPT SMALL M" />
-	<glyph unicode="1D4C3" name="nscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4C3" description="MATHEMATICAL SCRIPT SMALL N" />
-	<glyph unicode="1D4C5" name="pscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4C5" description="MATHEMATICAL SCRIPT SMALL P" />
-	<glyph unicode="1D4C6" name="qscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4C6" description="MATHEMATICAL SCRIPT SMALL Q" />
-	<glyph unicode="1D4C7" name="rscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4C7" description="MATHEMATICAL SCRIPT SMALL R" />
-	<glyph unicode="1D4C8" name="sscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4C8" description="MATHEMATICAL SCRIPT SMALL S" />
-	<glyph unicode="1D4C9" name="tscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4C9" description="MATHEMATICAL SCRIPT SMALL T" />
-	<glyph unicode="1D4CA" name="uscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4CA" description="MATHEMATICAL SCRIPT SMALL U" />
-	<glyph unicode="1D4CB" name="vscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4CB" description="MATHEMATICAL SCRIPT SMALL V" />
-	<glyph unicode="1D4CC" name="wscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4CC" description="MATHEMATICAL SCRIPT SMALL W" />
-	<glyph unicode="1D4CD" name="xscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4CD" description="MATHEMATICAL SCRIPT SMALL X" />
-	<glyph unicode="1D4CE" name="yscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4CE" description="MATHEMATICAL SCRIPT SMALL Y" />
-	<glyph unicode="1D4CF" name="zscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4CF" description="MATHEMATICAL SCRIPT SMALL Z" />
-	<glyph unicode="1D4D0" name="Aboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D0" description="MATHEMATICAL BOLD SCRIPT CAPITAL A" />
-	<glyph unicode="1D4D1" name="Bboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D1" description="MATHEMATICAL BOLD SCRIPT CAPITAL B" />
-	<glyph unicode="1D4D2" name="Cboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D2" description="MATHEMATICAL BOLD SCRIPT CAPITAL C" />
-	<glyph unicode="1D4D3" name="Dboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D3" description="MATHEMATICAL BOLD SCRIPT CAPITAL D" />
-	<glyph unicode="1D4D4" name="Eboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D4" description="MATHEMATICAL BOLD SCRIPT CAPITAL E" />
-	<glyph unicode="1D4D5" name="Fboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D5" description="MATHEMATICAL BOLD SCRIPT CAPITAL F" />
-	<glyph unicode="1D4D6" name="Gboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D6" description="MATHEMATICAL BOLD SCRIPT CAPITAL G" />
-	<glyph unicode="1D4D7" name="Hboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D7" description="MATHEMATICAL BOLD SCRIPT CAPITAL H" />
-	<glyph unicode="1D4D8" name="Iboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D8" description="MATHEMATICAL BOLD SCRIPT CAPITAL I" />
-	<glyph unicode="1D4D9" name="Jboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4D9" description="MATHEMATICAL BOLD SCRIPT CAPITAL J" />
-	<glyph unicode="1D4DA" name="Kboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4DA" description="MATHEMATICAL BOLD SCRIPT CAPITAL K" />
-	<glyph unicode="1D4DB" name="Lboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4DB" description="MATHEMATICAL BOLD SCRIPT CAPITAL L" />
-	<glyph unicode="1D4DC" name="Mboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4DC" description="MATHEMATICAL BOLD SCRIPT CAPITAL M" />
-	<glyph unicode="1D4DD" name="Nboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4DD" description="MATHEMATICAL BOLD SCRIPT CAPITAL N" />
-	<glyph unicode="1D4DE" name="Oboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4DE" description="MATHEMATICAL BOLD SCRIPT CAPITAL O" />
-	<glyph unicode="1D4DF" name="Pboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4DF" description="MATHEMATICAL BOLD SCRIPT CAPITAL P" />
-	<glyph unicode="1D4E0" name="Qboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E0" description="MATHEMATICAL BOLD SCRIPT CAPITAL Q" />
-	<glyph unicode="1D4E1" name="Rboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E1" description="MATHEMATICAL BOLD SCRIPT CAPITAL R" />
-	<glyph unicode="1D4E2" name="Sboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E2" description="MATHEMATICAL BOLD SCRIPT CAPITAL S" />
-	<glyph unicode="1D4E3" name="Tboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E3" description="MATHEMATICAL BOLD SCRIPT CAPITAL T" />
-	<glyph unicode="1D4E4" name="Uboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E4" description="MATHEMATICAL BOLD SCRIPT CAPITAL U" />
-	<glyph unicode="1D4E5" name="Vboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E5" description="MATHEMATICAL BOLD SCRIPT CAPITAL V" />
-	<glyph unicode="1D4E6" name="Wboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E6" description="MATHEMATICAL BOLD SCRIPT CAPITAL W" />
-	<glyph unicode="1D4E7" name="Xboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E7" description="MATHEMATICAL BOLD SCRIPT CAPITAL X" />
-	<glyph unicode="1D4E8" name="Yboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E8" description="MATHEMATICAL BOLD SCRIPT CAPITAL Y" />
-	<glyph unicode="1D4E9" name="Zboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="uni1D4E9" description="MATHEMATICAL BOLD SCRIPT CAPITAL Z" />
-	<glyph unicode="1D4EA" name="aboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4EA" description="MATHEMATICAL BOLD SCRIPT SMALL A" />
-	<glyph unicode="1D4EB" name="bboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4EB" description="MATHEMATICAL BOLD SCRIPT SMALL B" />
-	<glyph unicode="1D4EC" name="cboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4EC" description="MATHEMATICAL BOLD SCRIPT SMALL C" />
-	<glyph unicode="1D4ED" name="dboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4ED" description="MATHEMATICAL BOLD SCRIPT SMALL D" />
-	<glyph unicode="1D4EE" name="eboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4EE" description="MATHEMATICAL BOLD SCRIPT SMALL E" />
-	<glyph unicode="1D4EF" name="fboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4EF" description="MATHEMATICAL BOLD SCRIPT SMALL F" />
-	<glyph unicode="1D4F0" name="gboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F0" description="MATHEMATICAL BOLD SCRIPT SMALL G" />
-	<glyph unicode="1D4F1" name="hboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F1" description="MATHEMATICAL BOLD SCRIPT SMALL H" />
-	<glyph unicode="1D4F2" name="iboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F2" description="MATHEMATICAL BOLD SCRIPT SMALL I" />
-	<glyph unicode="1D4F3" name="jboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F3" description="MATHEMATICAL BOLD SCRIPT SMALL J" />
-	<glyph unicode="1D4F4" name="kboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F4" description="MATHEMATICAL BOLD SCRIPT SMALL K" />
-	<glyph unicode="1D4F5" name="lboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F5" description="MATHEMATICAL BOLD SCRIPT SMALL L" />
-	<glyph unicode="1D4F6" name="mboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F6" description="MATHEMATICAL BOLD SCRIPT SMALL M" />
-	<glyph unicode="1D4F7" name="nboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F7" description="MATHEMATICAL BOLD SCRIPT SMALL N" />
-	<glyph unicode="1D4F8" name="oboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F8" description="MATHEMATICAL BOLD SCRIPT SMALL O" />
-	<glyph unicode="1D4F9" name="pboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4F9" description="MATHEMATICAL BOLD SCRIPT SMALL P" />
-	<glyph unicode="1D4FA" name="qboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4FA" description="MATHEMATICAL BOLD SCRIPT SMALL Q" />
-	<glyph unicode="1D4FB" name="rboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4FB" description="MATHEMATICAL BOLD SCRIPT SMALL R" />
-	<glyph unicode="1D4FC" name="sboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4FC" description="MATHEMATICAL BOLD SCRIPT SMALL S" />
-	<glyph unicode="1D4FD" name="tboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4FD" description="MATHEMATICAL BOLD SCRIPT SMALL T" />
-	<glyph unicode="1D4FE" name="uboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4FE" description="MATHEMATICAL BOLD SCRIPT SMALL U" />
-	<glyph unicode="1D4FF" name="vboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D4FF" description="MATHEMATICAL BOLD SCRIPT SMALL V" />
-	<glyph unicode="1D500" name="wboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D500" description="MATHEMATICAL BOLD SCRIPT SMALL W" />
-	<glyph unicode="1D501" name="xboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D501" description="MATHEMATICAL BOLD SCRIPT SMALL X" />
-	<glyph unicode="1D502" name="yboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D502" description="MATHEMATICAL BOLD SCRIPT SMALL Y" />
-	<glyph unicode="1D503" name="zboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="uni1D503" description="MATHEMATICAL BOLD SCRIPT SMALL Z" />
+	<glyph unicode="1D400" name="Abold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D400" description="MATHEMATICAL BOLD CAPITAL A" />
+	<glyph unicode="1D401" name="Bbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D401" description="MATHEMATICAL BOLD CAPITAL B" />
+	<glyph unicode="1D402" name="Cbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D402" description="MATHEMATICAL BOLD CAPITAL C" />
+	<glyph unicode="1D403" name="Dbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D403" description="MATHEMATICAL BOLD CAPITAL D" />
+	<glyph unicode="1D404" name="Ebold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D404" description="MATHEMATICAL BOLD CAPITAL E" />
+	<glyph unicode="1D405" name="Fbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D405" description="MATHEMATICAL BOLD CAPITAL F" />
+	<glyph unicode="1D406" name="Gbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D406" description="MATHEMATICAL BOLD CAPITAL G" />
+	<glyph unicode="1D407" name="Hbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D407" description="MATHEMATICAL BOLD CAPITAL H" />
+	<glyph unicode="1D408" name="Ibold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D408" description="MATHEMATICAL BOLD CAPITAL I" />
+	<glyph unicode="1D409" name="Jbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D409" description="MATHEMATICAL BOLD CAPITAL J" />
+	<glyph unicode="1D40A" name="Kbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D40A" description="MATHEMATICAL BOLD CAPITAL K" />
+	<glyph unicode="1D40B" name="Lbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D40B" description="MATHEMATICAL BOLD CAPITAL L" />
+	<glyph unicode="1D40C" name="Mbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D40C" description="MATHEMATICAL BOLD CAPITAL M" />
+	<glyph unicode="1D40D" name="Nbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D40D" description="MATHEMATICAL BOLD CAPITAL N" />
+	<glyph unicode="1D40E" name="Obold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D40E" description="MATHEMATICAL BOLD CAPITAL O" />
+	<glyph unicode="1D40F" name="Pbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D40F" description="MATHEMATICAL BOLD CAPITAL P" />
+	<glyph unicode="1D410" name="Qbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D410" description="MATHEMATICAL BOLD CAPITAL Q" />
+	<glyph unicode="1D411" name="Rbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D411" description="MATHEMATICAL BOLD CAPITAL R" />
+	<glyph unicode="1D412" name="Sbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D412" description="MATHEMATICAL BOLD CAPITAL S" />
+	<glyph unicode="1D413" name="Tbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D413" description="MATHEMATICAL BOLD CAPITAL T" />
+	<glyph unicode="1D414" name="Ubold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D414" description="MATHEMATICAL BOLD CAPITAL U" />
+	<glyph unicode="1D415" name="Vbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D415" description="MATHEMATICAL BOLD CAPITAL V" />
+	<glyph unicode="1D416" name="Wbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D416" description="MATHEMATICAL BOLD CAPITAL W" />
+	<glyph unicode="1D417" name="Xbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D417" description="MATHEMATICAL BOLD CAPITAL X" />
+	<glyph unicode="1D418" name="Ybold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D418" description="MATHEMATICAL BOLD CAPITAL Y" />
+	<glyph unicode="1D419" name="Zbold-math" category="Letter" subCategory="Uppercase" script="math" production="u1D419" description="MATHEMATICAL BOLD CAPITAL Z" />
+	<glyph unicode="1D41A" name="abold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D41A" description="MATHEMATICAL BOLD SMALL A" />
+	<glyph unicode="1D41B" name="bbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D41B" description="MATHEMATICAL BOLD SMALL B" />
+	<glyph unicode="1D41C" name="cbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D41C" description="MATHEMATICAL BOLD SMALL C" />
+	<glyph unicode="1D41D" name="dbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D41D" description="MATHEMATICAL BOLD SMALL D" />
+	<glyph unicode="1D41E" name="ebold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D41E" description="MATHEMATICAL BOLD SMALL E" />
+	<glyph unicode="1D41F" name="fbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D41F" description="MATHEMATICAL BOLD SMALL F" />
+	<glyph unicode="1D420" name="gbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D420" description="MATHEMATICAL BOLD SMALL G" />
+	<glyph unicode="1D421" name="hbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D421" description="MATHEMATICAL BOLD SMALL H" />
+	<glyph unicode="1D422" name="ibold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D422" description="MATHEMATICAL BOLD SMALL I" />
+	<glyph unicode="1D423" name="jbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D423" description="MATHEMATICAL BOLD SMALL J" />
+	<glyph unicode="1D424" name="kbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D424" description="MATHEMATICAL BOLD SMALL K" />
+	<glyph unicode="1D425" name="lbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D425" description="MATHEMATICAL BOLD SMALL L" />
+	<glyph unicode="1D426" name="mbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D426" description="MATHEMATICAL BOLD SMALL M" />
+	<glyph unicode="1D427" name="nbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D427" description="MATHEMATICAL BOLD SMALL N" />
+	<glyph unicode="1D428" name="obold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D428" description="MATHEMATICAL BOLD SMALL O" />
+	<glyph unicode="1D429" name="pbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D429" description="MATHEMATICAL BOLD SMALL P" />
+	<glyph unicode="1D42A" name="qbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D42A" description="MATHEMATICAL BOLD SMALL Q" />
+	<glyph unicode="1D42B" name="rbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D42B" description="MATHEMATICAL BOLD SMALL R" />
+	<glyph unicode="1D42C" name="sbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D42C" description="MATHEMATICAL BOLD SMALL S" />
+	<glyph unicode="1D42D" name="tbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D42D" description="MATHEMATICAL BOLD SMALL T" />
+	<glyph unicode="1D42E" name="ubold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D42E" description="MATHEMATICAL BOLD SMALL U" />
+	<glyph unicode="1D42F" name="vbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D42F" description="MATHEMATICAL BOLD SMALL V" />
+	<glyph unicode="1D430" name="wbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D430" description="MATHEMATICAL BOLD SMALL W" />
+	<glyph unicode="1D431" name="xbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D431" description="MATHEMATICAL BOLD SMALL X" />
+	<glyph unicode="1D432" name="ybold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D432" description="MATHEMATICAL BOLD SMALL Y" />
+	<glyph unicode="1D433" name="zbold-math" category="Letter" subCategory="Lowercase" script="math" production="u1D433" description="MATHEMATICAL BOLD SMALL Z" />
+	<glyph unicode="1D434" name="Aitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D434" description="MATHEMATICAL ITALIC CAPITAL A" />
+	<glyph unicode="1D435" name="Bitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D435" description="MATHEMATICAL ITALIC CAPITAL B" />
+	<glyph unicode="1D436" name="Citalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D436" description="MATHEMATICAL ITALIC CAPITAL C" />
+	<glyph unicode="1D437" name="Ditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D437" description="MATHEMATICAL ITALIC CAPITAL D" />
+	<glyph unicode="1D438" name="Eitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D438" description="MATHEMATICAL ITALIC CAPITAL E" />
+	<glyph unicode="1D439" name="Fitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D439" description="MATHEMATICAL ITALIC CAPITAL F" />
+	<glyph unicode="1D43A" name="Gitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D43A" description="MATHEMATICAL ITALIC CAPITAL G" />
+	<glyph unicode="1D43B" name="Hitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D43B" description="MATHEMATICAL ITALIC CAPITAL H" />
+	<glyph unicode="1D43C" name="Iitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D43C" description="MATHEMATICAL ITALIC CAPITAL I" />
+	<glyph unicode="1D43D" name="Jitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D43D" description="MATHEMATICAL ITALIC CAPITAL J" />
+	<glyph unicode="1D43E" name="Kitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D43E" description="MATHEMATICAL ITALIC CAPITAL K" />
+	<glyph unicode="1D43F" name="Litalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D43F" description="MATHEMATICAL ITALIC CAPITAL L" />
+	<glyph unicode="1D440" name="Mitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D440" description="MATHEMATICAL ITALIC CAPITAL M" />
+	<glyph unicode="1D441" name="Nitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D441" description="MATHEMATICAL ITALIC CAPITAL N" />
+	<glyph unicode="1D442" name="Oitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D442" description="MATHEMATICAL ITALIC CAPITAL O" />
+	<glyph unicode="1D443" name="Pitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D443" description="MATHEMATICAL ITALIC CAPITAL P" />
+	<glyph unicode="1D444" name="Qitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D444" description="MATHEMATICAL ITALIC CAPITAL Q" />
+	<glyph unicode="1D445" name="Ritalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D445" description="MATHEMATICAL ITALIC CAPITAL R" />
+	<glyph unicode="1D446" name="Sitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D446" description="MATHEMATICAL ITALIC CAPITAL S" />
+	<glyph unicode="1D447" name="Titalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D447" description="MATHEMATICAL ITALIC CAPITAL T" />
+	<glyph unicode="1D448" name="Uitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D448" description="MATHEMATICAL ITALIC CAPITAL U" />
+	<glyph unicode="1D449" name="Vitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D449" description="MATHEMATICAL ITALIC CAPITAL V" />
+	<glyph unicode="1D44A" name="Witalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D44A" description="MATHEMATICAL ITALIC CAPITAL W" />
+	<glyph unicode="1D44B" name="Xitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D44B" description="MATHEMATICAL ITALIC CAPITAL X" />
+	<glyph unicode="1D44C" name="Yitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D44C" description="MATHEMATICAL ITALIC CAPITAL Y" />
+	<glyph unicode="1D44D" name="Zitalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D44D" description="MATHEMATICAL ITALIC CAPITAL Z" />
+	<glyph unicode="1D44E" name="aitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D44E" description="MATHEMATICAL ITALIC SMALL A" />
+	<glyph unicode="1D44F" name="bitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D44F" description="MATHEMATICAL ITALIC SMALL B" />
+	<glyph unicode="1D450" name="citalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D450" description="MATHEMATICAL ITALIC SMALL C" />
+	<glyph unicode="1D451" name="ditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D451" description="MATHEMATICAL ITALIC SMALL D" />
+	<glyph unicode="1D452" name="eitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D452" description="MATHEMATICAL ITALIC SMALL E" />
+	<glyph unicode="1D453" name="fitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D453" description="MATHEMATICAL ITALIC SMALL F" />
+	<glyph unicode="1D454" name="gitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D454" description="MATHEMATICAL ITALIC SMALL G" />
+	<glyph unicode="1D456" name="iitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D456" description="MATHEMATICAL ITALIC SMALL I" />
+	<glyph unicode="1D457" name="jitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D457" description="MATHEMATICAL ITALIC SMALL J" />
+	<glyph unicode="1D458" name="kitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D458" description="MATHEMATICAL ITALIC SMALL K" />
+	<glyph unicode="1D459" name="litalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D459" description="MATHEMATICAL ITALIC SMALL L" />
+	<glyph unicode="1D45A" name="mitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D45A" description="MATHEMATICAL ITALIC SMALL M" />
+	<glyph unicode="1D45B" name="nitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D45B" description="MATHEMATICAL ITALIC SMALL N" />
+	<glyph unicode="1D45C" name="oitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D45C" description="MATHEMATICAL ITALIC SMALL O" />
+	<glyph unicode="1D45D" name="pitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D45D" description="MATHEMATICAL ITALIC SMALL P" />
+	<glyph unicode="1D45E" name="qitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D45E" description="MATHEMATICAL ITALIC SMALL Q" />
+	<glyph unicode="1D45F" name="ritalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D45F" description="MATHEMATICAL ITALIC SMALL R" />
+	<glyph unicode="1D460" name="sitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D460" description="MATHEMATICAL ITALIC SMALL S" />
+	<glyph unicode="1D461" name="titalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D461" description="MATHEMATICAL ITALIC SMALL T" />
+	<glyph unicode="1D462" name="uitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D462" description="MATHEMATICAL ITALIC SMALL U" />
+	<glyph unicode="1D463" name="vitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D463" description="MATHEMATICAL ITALIC SMALL V" />
+	<glyph unicode="1D464" name="witalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D464" description="MATHEMATICAL ITALIC SMALL W" />
+	<glyph unicode="1D465" name="xitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D465" description="MATHEMATICAL ITALIC SMALL X" />
+	<glyph unicode="1D466" name="yitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D466" description="MATHEMATICAL ITALIC SMALL Y" />
+	<glyph unicode="1D467" name="zitalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D467" description="MATHEMATICAL ITALIC SMALL Z" />
+	<glyph unicode="1D468" name="Abolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D468" description="MATHEMATICAL BOLD ITALIC CAPITAL A" />
+	<glyph unicode="1D469" name="Bbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D469" description="MATHEMATICAL BOLD ITALIC CAPITAL B" />
+	<glyph unicode="1D46A" name="Cbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D46A" description="MATHEMATICAL BOLD ITALIC CAPITAL C" />
+	<glyph unicode="1D46B" name="Dbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D46B" description="MATHEMATICAL BOLD ITALIC CAPITAL D" />
+	<glyph unicode="1D46C" name="Ebolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D46C" description="MATHEMATICAL BOLD ITALIC CAPITAL E" />
+	<glyph unicode="1D46D" name="Fbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D46D" description="MATHEMATICAL BOLD ITALIC CAPITAL F" />
+	<glyph unicode="1D46E" name="Gbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D46E" description="MATHEMATICAL BOLD ITALIC CAPITAL G" />
+	<glyph unicode="1D46F" name="Hbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D46F" description="MATHEMATICAL BOLD ITALIC CAPITAL H" />
+	<glyph unicode="1D470" name="Ibolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D470" description="MATHEMATICAL BOLD ITALIC CAPITAL I" />
+	<glyph unicode="1D471" name="Jbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D471" description="MATHEMATICAL BOLD ITALIC CAPITAL J" />
+	<glyph unicode="1D472" name="Kbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D472" description="MATHEMATICAL BOLD ITALIC CAPITAL K" />
+	<glyph unicode="1D473" name="Lbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D473" description="MATHEMATICAL BOLD ITALIC CAPITAL L" />
+	<glyph unicode="1D474" name="Mbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D474" description="MATHEMATICAL BOLD ITALIC CAPITAL M" />
+	<glyph unicode="1D475" name="Nbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D475" description="MATHEMATICAL BOLD ITALIC CAPITAL N" />
+	<glyph unicode="1D476" name="Obolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D476" description="MATHEMATICAL BOLD ITALIC CAPITAL O" />
+	<glyph unicode="1D477" name="Pbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D477" description="MATHEMATICAL BOLD ITALIC CAPITAL P" />
+	<glyph unicode="1D478" name="Qbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D478" description="MATHEMATICAL BOLD ITALIC CAPITAL Q" />
+	<glyph unicode="1D479" name="Rbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D479" description="MATHEMATICAL BOLD ITALIC CAPITAL R" />
+	<glyph unicode="1D47A" name="Sbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D47A" description="MATHEMATICAL BOLD ITALIC CAPITAL S" />
+	<glyph unicode="1D47B" name="Tbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D47B" description="MATHEMATICAL BOLD ITALIC CAPITAL T" />
+	<glyph unicode="1D47C" name="Ubolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D47C" description="MATHEMATICAL BOLD ITALIC CAPITAL U" />
+	<glyph unicode="1D47D" name="Vbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D47D" description="MATHEMATICAL BOLD ITALIC CAPITAL V" />
+	<glyph unicode="1D47E" name="Wbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D47E" description="MATHEMATICAL BOLD ITALIC CAPITAL W" />
+	<glyph unicode="1D47F" name="Xbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D47F" description="MATHEMATICAL BOLD ITALIC CAPITAL X" />
+	<glyph unicode="1D480" name="Ybolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D480" description="MATHEMATICAL BOLD ITALIC CAPITAL Y" />
+	<glyph unicode="1D481" name="Zbolditalic-math" category="Letter" subCategory="Uppercase" script="math" production="u1D481" description="MATHEMATICAL BOLD ITALIC CAPITAL Z" />
+	<glyph unicode="1D482" name="abolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D482" description="MATHEMATICAL BOLD ITALIC SMALL A" />
+	<glyph unicode="1D483" name="bbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D483" description="MATHEMATICAL BOLD ITALIC SMALL B" />
+	<glyph unicode="1D484" name="cbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D484" description="MATHEMATICAL BOLD ITALIC SMALL C" />
+	<glyph unicode="1D485" name="dbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D485" description="MATHEMATICAL BOLD ITALIC SMALL D" />
+	<glyph unicode="1D486" name="ebolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D486" description="MATHEMATICAL BOLD ITALIC SMALL E" />
+	<glyph unicode="1D487" name="fbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D487" description="MATHEMATICAL BOLD ITALIC SMALL F" />
+	<glyph unicode="1D488" name="gbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D488" description="MATHEMATICAL BOLD ITALIC SMALL G" />
+	<glyph unicode="1D489" name="hbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D489" description="MATHEMATICAL BOLD ITALIC SMALL H" />
+	<glyph unicode="1D48A" name="ibolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D48A" description="MATHEMATICAL BOLD ITALIC SMALL I" />
+	<glyph unicode="1D48B" name="jbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D48B" description="MATHEMATICAL BOLD ITALIC SMALL J" />
+	<glyph unicode="1D48C" name="kbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D48C" description="MATHEMATICAL BOLD ITALIC SMALL K" />
+	<glyph unicode="1D48D" name="lbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D48D" description="MATHEMATICAL BOLD ITALIC SMALL L" />
+	<glyph unicode="1D48E" name="mbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D48E" description="MATHEMATICAL BOLD ITALIC SMALL M" />
+	<glyph unicode="1D48F" name="nbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D48F" description="MATHEMATICAL BOLD ITALIC SMALL N" />
+	<glyph unicode="1D490" name="obolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D490" description="MATHEMATICAL BOLD ITALIC SMALL O" />
+	<glyph unicode="1D491" name="pbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D491" description="MATHEMATICAL BOLD ITALIC SMALL P" />
+	<glyph unicode="1D492" name="qbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D492" description="MATHEMATICAL BOLD ITALIC SMALL Q" />
+	<glyph unicode="1D493" name="rbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D493" description="MATHEMATICAL BOLD ITALIC SMALL R" />
+	<glyph unicode="1D494" name="sbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D494" description="MATHEMATICAL BOLD ITALIC SMALL S" />
+	<glyph unicode="1D495" name="tbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D495" description="MATHEMATICAL BOLD ITALIC SMALL T" />
+	<glyph unicode="1D496" name="ubolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D496" description="MATHEMATICAL BOLD ITALIC SMALL U" />
+	<glyph unicode="1D497" name="vbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D497" description="MATHEMATICAL BOLD ITALIC SMALL V" />
+	<glyph unicode="1D498" name="wbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D498" description="MATHEMATICAL BOLD ITALIC SMALL W" />
+	<glyph unicode="1D499" name="xbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D499" description="MATHEMATICAL BOLD ITALIC SMALL X" />
+	<glyph unicode="1D49A" name="ybolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D49A" description="MATHEMATICAL BOLD ITALIC SMALL Y" />
+	<glyph unicode="1D49B" name="zbolditalic-math" category="Letter" subCategory="Lowercase" script="math" production="u1D49B" description="MATHEMATICAL BOLD ITALIC SMALL Z" />
+	<glyph unicode="1D49C" name="Ascript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D49C" description="MATHEMATICAL SCRIPT CAPITAL A" />
+	<glyph unicode="1D49E" name="Cscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D49E" description="MATHEMATICAL SCRIPT CAPITAL C" />
+	<glyph unicode="1D49F" name="Dscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D49F" description="MATHEMATICAL SCRIPT CAPITAL D" />
+	<glyph unicode="1D4A2" name="Gscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4A2" description="MATHEMATICAL SCRIPT CAPITAL G" />
+	<glyph unicode="1D4A5" name="Jscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4A5" description="MATHEMATICAL SCRIPT CAPITAL J" />
+	<glyph unicode="1D4A6" name="Kscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4A6" description="MATHEMATICAL SCRIPT CAPITAL K" />
+	<glyph unicode="1D4A9" name="Nscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4A9" description="MATHEMATICAL SCRIPT CAPITAL N" />
+	<glyph unicode="1D4AA" name="Oscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4AA" description="MATHEMATICAL SCRIPT CAPITAL O" />
+	<glyph unicode="1D4AB" name="Pscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4AB" description="MATHEMATICAL SCRIPT CAPITAL P" />
+	<glyph unicode="1D4AC" name="Qscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4AC" description="MATHEMATICAL SCRIPT CAPITAL Q" />
+	<glyph unicode="1D4AE" name="Sscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4AE" description="MATHEMATICAL SCRIPT CAPITAL S" />
+	<glyph unicode="1D4AF" name="Tscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4AF" description="MATHEMATICAL SCRIPT CAPITAL T" />
+	<glyph unicode="1D4B0" name="Uscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4B0" description="MATHEMATICAL SCRIPT CAPITAL U" />
+	<glyph unicode="1D4B1" name="Vscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4B1" description="MATHEMATICAL SCRIPT CAPITAL V" />
+	<glyph unicode="1D4B2" name="Wscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4B2" description="MATHEMATICAL SCRIPT CAPITAL W" />
+	<glyph unicode="1D4B3" name="Xscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4B3" description="MATHEMATICAL SCRIPT CAPITAL X" />
+	<glyph unicode="1D4B4" name="Yscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4B4" description="MATHEMATICAL SCRIPT CAPITAL Y" />
+	<glyph unicode="1D4B5" name="Zscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4B5" description="MATHEMATICAL SCRIPT CAPITAL Z" />
+	<glyph unicode="1D4B6" name="ascript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4B6" description="MATHEMATICAL SCRIPT SMALL A" />
+	<glyph unicode="1D4B7" name="bscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4B7" description="MATHEMATICAL SCRIPT SMALL B" />
+	<glyph unicode="1D4B8" name="cscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4B8" description="MATHEMATICAL SCRIPT SMALL C" />
+	<glyph unicode="1D4B9" name="dscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4B9" description="MATHEMATICAL SCRIPT SMALL D" />
+	<glyph unicode="1D4BB" name="fscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4BB" description="MATHEMATICAL SCRIPT SMALL F" />
+	<glyph unicode="1D4BD" name="hscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4BD" description="MATHEMATICAL SCRIPT SMALL H" />
+	<glyph unicode="1D4BE" name="iscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4BE" description="MATHEMATICAL SCRIPT SMALL I" />
+	<glyph unicode="1D4BF" name="jscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4BF" description="MATHEMATICAL SCRIPT SMALL J" />
+	<glyph unicode="1D4C0" name="kscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4C0" description="MATHEMATICAL SCRIPT SMALL K" />
+	<glyph unicode="1D4C1" name="lscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4C1" description="MATHEMATICAL SCRIPT SMALL L" />
+	<glyph unicode="1D4C2" name="mscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4C2" description="MATHEMATICAL SCRIPT SMALL M" />
+	<glyph unicode="1D4C3" name="nscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4C3" description="MATHEMATICAL SCRIPT SMALL N" />
+	<glyph unicode="1D4C5" name="pscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4C5" description="MATHEMATICAL SCRIPT SMALL P" />
+	<glyph unicode="1D4C6" name="qscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4C6" description="MATHEMATICAL SCRIPT SMALL Q" />
+	<glyph unicode="1D4C7" name="rscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4C7" description="MATHEMATICAL SCRIPT SMALL R" />
+	<glyph unicode="1D4C8" name="sscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4C8" description="MATHEMATICAL SCRIPT SMALL S" />
+	<glyph unicode="1D4C9" name="tscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4C9" description="MATHEMATICAL SCRIPT SMALL T" />
+	<glyph unicode="1D4CA" name="uscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4CA" description="MATHEMATICAL SCRIPT SMALL U" />
+	<glyph unicode="1D4CB" name="vscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4CB" description="MATHEMATICAL SCRIPT SMALL V" />
+	<glyph unicode="1D4CC" name="wscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4CC" description="MATHEMATICAL SCRIPT SMALL W" />
+	<glyph unicode="1D4CD" name="xscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4CD" description="MATHEMATICAL SCRIPT SMALL X" />
+	<glyph unicode="1D4CE" name="yscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4CE" description="MATHEMATICAL SCRIPT SMALL Y" />
+	<glyph unicode="1D4CF" name="zscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4CF" description="MATHEMATICAL SCRIPT SMALL Z" />
+	<glyph unicode="1D4D0" name="Aboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D0" description="MATHEMATICAL BOLD SCRIPT CAPITAL A" />
+	<glyph unicode="1D4D1" name="Bboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D1" description="MATHEMATICAL BOLD SCRIPT CAPITAL B" />
+	<glyph unicode="1D4D2" name="Cboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D2" description="MATHEMATICAL BOLD SCRIPT CAPITAL C" />
+	<glyph unicode="1D4D3" name="Dboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D3" description="MATHEMATICAL BOLD SCRIPT CAPITAL D" />
+	<glyph unicode="1D4D4" name="Eboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D4" description="MATHEMATICAL BOLD SCRIPT CAPITAL E" />
+	<glyph unicode="1D4D5" name="Fboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D5" description="MATHEMATICAL BOLD SCRIPT CAPITAL F" />
+	<glyph unicode="1D4D6" name="Gboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D6" description="MATHEMATICAL BOLD SCRIPT CAPITAL G" />
+	<glyph unicode="1D4D7" name="Hboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D7" description="MATHEMATICAL BOLD SCRIPT CAPITAL H" />
+	<glyph unicode="1D4D8" name="Iboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D8" description="MATHEMATICAL BOLD SCRIPT CAPITAL I" />
+	<glyph unicode="1D4D9" name="Jboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4D9" description="MATHEMATICAL BOLD SCRIPT CAPITAL J" />
+	<glyph unicode="1D4DA" name="Kboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4DA" description="MATHEMATICAL BOLD SCRIPT CAPITAL K" />
+	<glyph unicode="1D4DB" name="Lboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4DB" description="MATHEMATICAL BOLD SCRIPT CAPITAL L" />
+	<glyph unicode="1D4DC" name="Mboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4DC" description="MATHEMATICAL BOLD SCRIPT CAPITAL M" />
+	<glyph unicode="1D4DD" name="Nboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4DD" description="MATHEMATICAL BOLD SCRIPT CAPITAL N" />
+	<glyph unicode="1D4DE" name="Oboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4DE" description="MATHEMATICAL BOLD SCRIPT CAPITAL O" />
+	<glyph unicode="1D4DF" name="Pboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4DF" description="MATHEMATICAL BOLD SCRIPT CAPITAL P" />
+	<glyph unicode="1D4E0" name="Qboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E0" description="MATHEMATICAL BOLD SCRIPT CAPITAL Q" />
+	<glyph unicode="1D4E1" name="Rboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E1" description="MATHEMATICAL BOLD SCRIPT CAPITAL R" />
+	<glyph unicode="1D4E2" name="Sboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E2" description="MATHEMATICAL BOLD SCRIPT CAPITAL S" />
+	<glyph unicode="1D4E3" name="Tboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E3" description="MATHEMATICAL BOLD SCRIPT CAPITAL T" />
+	<glyph unicode="1D4E4" name="Uboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E4" description="MATHEMATICAL BOLD SCRIPT CAPITAL U" />
+	<glyph unicode="1D4E5" name="Vboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E5" description="MATHEMATICAL BOLD SCRIPT CAPITAL V" />
+	<glyph unicode="1D4E6" name="Wboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E6" description="MATHEMATICAL BOLD SCRIPT CAPITAL W" />
+	<glyph unicode="1D4E7" name="Xboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E7" description="MATHEMATICAL BOLD SCRIPT CAPITAL X" />
+	<glyph unicode="1D4E8" name="Yboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E8" description="MATHEMATICAL BOLD SCRIPT CAPITAL Y" />
+	<glyph unicode="1D4E9" name="Zboldscript-math" category="Letter" subCategory="Uppercase" script="math" production="u1D4E9" description="MATHEMATICAL BOLD SCRIPT CAPITAL Z" />
+	<glyph unicode="1D4EA" name="aboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4EA" description="MATHEMATICAL BOLD SCRIPT SMALL A" />
+	<glyph unicode="1D4EB" name="bboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4EB" description="MATHEMATICAL BOLD SCRIPT SMALL B" />
+	<glyph unicode="1D4EC" name="cboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4EC" description="MATHEMATICAL BOLD SCRIPT SMALL C" />
+	<glyph unicode="1D4ED" name="dboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4ED" description="MATHEMATICAL BOLD SCRIPT SMALL D" />
+	<glyph unicode="1D4EE" name="eboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4EE" description="MATHEMATICAL BOLD SCRIPT SMALL E" />
+	<glyph unicode="1D4EF" name="fboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4EF" description="MATHEMATICAL BOLD SCRIPT SMALL F" />
+	<glyph unicode="1D4F0" name="gboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F0" description="MATHEMATICAL BOLD SCRIPT SMALL G" />
+	<glyph unicode="1D4F1" name="hboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F1" description="MATHEMATICAL BOLD SCRIPT SMALL H" />
+	<glyph unicode="1D4F2" name="iboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F2" description="MATHEMATICAL BOLD SCRIPT SMALL I" />
+	<glyph unicode="1D4F3" name="jboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F3" description="MATHEMATICAL BOLD SCRIPT SMALL J" />
+	<glyph unicode="1D4F4" name="kboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F4" description="MATHEMATICAL BOLD SCRIPT SMALL K" />
+	<glyph unicode="1D4F5" name="lboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F5" description="MATHEMATICAL BOLD SCRIPT SMALL L" />
+	<glyph unicode="1D4F6" name="mboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F6" description="MATHEMATICAL BOLD SCRIPT SMALL M" />
+	<glyph unicode="1D4F7" name="nboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F7" description="MATHEMATICAL BOLD SCRIPT SMALL N" />
+	<glyph unicode="1D4F8" name="oboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F8" description="MATHEMATICAL BOLD SCRIPT SMALL O" />
+	<glyph unicode="1D4F9" name="pboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4F9" description="MATHEMATICAL BOLD SCRIPT SMALL P" />
+	<glyph unicode="1D4FA" name="qboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4FA" description="MATHEMATICAL BOLD SCRIPT SMALL Q" />
+	<glyph unicode="1D4FB" name="rboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4FB" description="MATHEMATICAL BOLD SCRIPT SMALL R" />
+	<glyph unicode="1D4FC" name="sboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4FC" description="MATHEMATICAL BOLD SCRIPT SMALL S" />
+	<glyph unicode="1D4FD" name="tboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4FD" description="MATHEMATICAL BOLD SCRIPT SMALL T" />
+	<glyph unicode="1D4FE" name="uboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4FE" description="MATHEMATICAL BOLD SCRIPT SMALL U" />
+	<glyph unicode="1D4FF" name="vboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D4FF" description="MATHEMATICAL BOLD SCRIPT SMALL V" />
+	<glyph unicode="1D500" name="wboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D500" description="MATHEMATICAL BOLD SCRIPT SMALL W" />
+	<glyph unicode="1D501" name="xboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D501" description="MATHEMATICAL BOLD SCRIPT SMALL X" />
+	<glyph unicode="1D502" name="yboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D502" description="MATHEMATICAL BOLD SCRIPT SMALL Y" />
+	<glyph unicode="1D503" name="zboldscript-math" category="Letter" subCategory="Lowercase" script="math" production="u1D503" description="MATHEMATICAL BOLD SCRIPT SMALL Z" />
 	<glyph unicode="1D504" name="A-fraktur" category="Letter" subCategory="Uppercase" script="Black Letter" production="u1D504" description="MATHEMATICAL FRAKTUR CAPITAL A" />
 	<glyph unicode="1D505" name="B-fraktur" category="Letter" subCategory="Uppercase" script="Black Letter" production="u1D505" description="MATHEMATICAL FRAKTUR CAPITAL B" />
 	<glyph unicode="212D" name="C-fraktur" category="Letter" subCategory="Uppercase" script="Black Letter" production="uni212D" description="BLACK-LETTER CAPITAL C" />
