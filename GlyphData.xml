@@ -244,52 +244,52 @@
 	<glyph name="eleventwelvths" category="Number" subCategory="Fraction" production="one_one_fraction_one_two" description="VULGAR FRACTION eleven twelvths" />
 	<glyph name="onehundredth" category="Number" subCategory="Fraction" production="one_fraction_one_zero_zero" description="VULGAR FRACTION one hundredth" />
 	<glyph name="oneovertwo" category="Number" subCategory="Fraction" production="one_fraction_two.nut" description="NUT FRACTION one OVER two" />
-	<glyph name="oneoverthree" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER three" />
-	<glyph name="twooverthree" category="Number" subCategory="Fraction" description="NUT FRACTION two OVER three" />
-	<glyph name="zerooverthree" category="Number" subCategory="Fraction" description="NUT FRACTION zero OVER three" />
-	<glyph name="oneoverfour" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER four" />
-	<glyph name="threeoverfour" category="Number" subCategory="Fraction" description="NUT FRACTION three OVER four" />
-	<glyph name="fouroverfive" category="Number" subCategory="Fraction" description="NUT FRACTION four OVER five" />
-	<glyph name="oneoverfive" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER five" />
-	<glyph name="threeoverfive" category="Number" subCategory="Fraction" description="NUT FRACTION three OVER five" />
-	<glyph name="twooverfive" category="Number" subCategory="Fraction" description="NUT FRACTION two OVER five" />
-	<glyph name="fiveoversix" category="Number" subCategory="Fraction" description="NUT FRACTION five OVER six" />
-	<glyph name="oneoversix" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER six" />
-	<glyph name="fiveoverseven" category="Number" subCategory="Fraction" description="NUT FRACTION five OVER seven" />
-	<glyph name="fouroverseven" category="Number" subCategory="Fraction" description="NUT FRACTION four OVER seven" />
-	<glyph name="oneoverseven" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER seven" />
-	<glyph name="sixoverseven" category="Number" subCategory="Fraction" description="NUT FRACTION six OVER seven" />
-	<glyph name="threeoverseven" category="Number" subCategory="Fraction" description="NUT FRACTION three OVER seven" />
-	<glyph name="twooverseven" category="Number" subCategory="Fraction" description="NUT FRACTION two OVER seven" />
-	<glyph name="fiveovereight" category="Number" subCategory="Fraction" description="NUT FRACTION five OVER eight" />
-	<glyph name="oneovereight" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER eight" />
-	<glyph name="sevenovereight" category="Number" subCategory="Fraction" description="NUT FRACTION seven OVER eight" />
-	<glyph name="threeovereight" category="Number" subCategory="Fraction" description="NUT FRACTION three OVER eight" />
-	<glyph name="eightovernine" category="Number" subCategory="Fraction" description="NUT FRACTION eight OVER nine" />
-	<glyph name="fiveovernine" category="Number" subCategory="Fraction" description="NUT FRACTION five OVER nine" />
-	<glyph name="fourovernine" category="Number" subCategory="Fraction" description="NUT FRACTION four OVER nine" />
-	<glyph name="oneovernine" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER nine" />
-	<glyph name="sevenovernine" category="Number" subCategory="Fraction" description="NUT FRACTION seven OVER nine" />
-	<glyph name="twoovernine" category="Number" subCategory="Fraction" description="NUT FRACTION two OVER nine" />
-	<glyph name="nineoverten" category="Number" subCategory="Fraction" description="NUT FRACTION nine OVER ten" />
-	<glyph name="oneoverten" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER ten" />
-	<glyph name="sevenoverten" category="Number" subCategory="Fraction" description="NUT FRACTION seven OVER ten" />
-	<glyph name="threeoverten" category="Number" subCategory="Fraction" description="NUT FRACTION three OVER ten" />
-	<glyph name="eightovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION eight OVER eleven" />
-	<glyph name="fiveovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION five OVER eleven" />
-	<glyph name="fourovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION four OVER eleven" />
-	<glyph name="nineovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION nine OVER eleven" />
-	<glyph name="oneovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER eleven" />
-	<glyph name="sevenovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION seven OVER eleven" />
-	<glyph name="sixovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION six OVER eleven" />
-	<glyph name="tenovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION ten OVER eleven" />
-	<glyph name="threeovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION three OVER eleven" />
-	<glyph name="twoovereleven" category="Number" subCategory="Fraction" description="NUT FRACTION two OVER eleven" />
-	<glyph name="elevenovertwelve" category="Number" subCategory="Fraction" description="NUT FRACTION eleven OVER twelve" />
-	<glyph name="fiveovertwelve" category="Number" subCategory="Fraction" description="NUT FRACTION five OVER twelve" />
-	<glyph name="oneovertwelve" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER twelve" />
-	<glyph name="sevenovertwelve" category="Number" subCategory="Fraction" description="NUT FRACTION seven OVER twelve" />
-	<glyph name="oneoveronehundred" category="Number" subCategory="Fraction" description="NUT FRACTION one OVER onehundred" />
+	<glyph name="oneoverthree" category="Number" subCategory="Fraction" production="one_fraction_three.nut" description="NUT FRACTION one OVER three" />
+	<glyph name="twooverthree" category="Number" subCategory="Fraction" production="two_fraction_three.nut" description="NUT FRACTION two OVER three" />
+	<glyph name="zerooverthree" category="Number" subCategory="Fraction" production="zero_fraction_three.nut" description="NUT FRACTION zero OVER three" />
+	<glyph name="oneoverfour" category="Number" subCategory="Fraction" production="one_fraction_four.nut" description="NUT FRACTION one OVER four" />
+	<glyph name="threeoverfour" category="Number" subCategory="Fraction" production="three_fraction_four.nut" description="NUT FRACTION three OVER four" />
+	<glyph name="fouroverfive" category="Number" subCategory="Fraction" production="four_fraction_five.nut" description="NUT FRACTION four OVER five" />
+	<glyph name="oneoverfive" category="Number" subCategory="Fraction" production="one_fraction_five.nut" description="NUT FRACTION one OVER five" />
+	<glyph name="threeoverfive" category="Number" subCategory="Fraction" production="three_fraction_five.nut" description="NUT FRACTION three OVER five" />
+	<glyph name="twooverfive" category="Number" subCategory="Fraction" production="two_fraction_five.nut" description="NUT FRACTION two OVER five" />
+	<glyph name="fiveoversix" category="Number" subCategory="Fraction" production="five_fraction_six.nut" description="NUT FRACTION five OVER six" />
+	<glyph name="oneoversix" category="Number" subCategory="Fraction" production="one_fraction_six.nut" description="NUT FRACTION one OVER six" />
+	<glyph name="fiveoverseven" category="Number" subCategory="Fraction" production="five_fraction_seven.nut" description="NUT FRACTION five OVER seven" />
+	<glyph name="fouroverseven" category="Number" subCategory="Fraction" production="four_fraction_seven.nut" description="NUT FRACTION four OVER seven" />
+	<glyph name="oneoverseven" category="Number" subCategory="Fraction" production="one_fraction_seven.nut" description="NUT FRACTION one OVER seven" />
+	<glyph name="sixoverseven" category="Number" subCategory="Fraction" production="six_fraction_seven.nut" description="NUT FRACTION six OVER seven" />
+	<glyph name="threeoverseven" category="Number" subCategory="Fraction" production="three_fraction_seven.nut" description="NUT FRACTION three OVER seven" />
+	<glyph name="twooverseven" category="Number" subCategory="Fraction" production="two_fraction_seven.nut" description="NUT FRACTION two OVER seven" />
+	<glyph name="fiveovereight" category="Number" subCategory="Fraction" production="five_fraction_eight.nut" description="NUT FRACTION five OVER eight" />
+	<glyph name="oneovereight" category="Number" subCategory="Fraction" production="one_fraction_eight.nut" description="NUT FRACTION one OVER eight" />
+	<glyph name="sevenovereight" category="Number" subCategory="Fraction" production="seven_fraction_eight.nut" description="NUT FRACTION seven OVER eight" />
+	<glyph name="threeovereight" category="Number" subCategory="Fraction" production="three_fraction_eight.nut" description="NUT FRACTION three OVER eight" />
+	<glyph name="eightovernine" category="Number" subCategory="Fraction" production="eight_fraction_nine.nut" description="NUT FRACTION eight OVER nine" />
+	<glyph name="fiveovernine" category="Number" subCategory="Fraction" production="five_fraction_nine.nut" description="NUT FRACTION five OVER nine" />
+	<glyph name="fourovernine" category="Number" subCategory="Fraction" production="four_fraction_nine.nut" description="NUT FRACTION four OVER nine" />
+	<glyph name="oneovernine" category="Number" subCategory="Fraction" production="one_fraction_nine.nut" description="NUT FRACTION one OVER nine" />
+	<glyph name="sevenovernine" category="Number" subCategory="Fraction" production="seven_fraction_nine.nut" description="NUT FRACTION seven OVER nine" />
+	<glyph name="twoovernine" category="Number" subCategory="Fraction" production="two_fraction_nine.nut" description="NUT FRACTION two OVER nine" />
+	<glyph name="nineoverten" category="Number" subCategory="Fraction" production="nine_fraction_one_zero.nut" description="NUT FRACTION nine OVER ten" />
+	<glyph name="oneoverten" category="Number" subCategory="Fraction" production="one_fraction_one_zero.nut.nut" description="NUT FRACTION one OVER ten" />
+	<glyph name="sevenoverten" category="Number" subCategory="Fraction" production="seven_fraction_one_zero.nut" description="NUT FRACTION seven OVER ten" />
+	<glyph name="threeoverten" category="Number" subCategory="Fraction" production="three_fraction_one_zero.nut" description="NUT FRACTION three OVER ten" />
+	<glyph name="eightovereleven" category="Number" subCategory="Fraction" production="eight_fraction_one_one.nut" description="NUT FRACTION eight OVER eleven" />
+	<glyph name="fiveovereleven" category="Number" subCategory="Fraction" production="five_fraction_one_one.nut" description="NUT FRACTION five OVER eleven" />
+	<glyph name="fourovereleven" category="Number" subCategory="Fraction" production="four_fraction_one_one.nut" description="NUT FRACTION four OVER eleven" />
+	<glyph name="nineovereleven" category="Number" subCategory="Fraction" production="nine_fraction_one_one.nut" description="NUT FRACTION nine OVER eleven" />
+	<glyph name="oneovereleven" category="Number" subCategory="Fraction" production="one_fraction_one_one.nut" description="NUT FRACTION one OVER eleven" />
+	<glyph name="sevenovereleven" category="Number" subCategory="Fraction" production="seven_fraction_one_one.nut" description="NUT FRACTION seven OVER eleven" />
+	<glyph name="sixovereleven" category="Number" subCategory="Fraction" production="six_fraction_one_one.nut" description="NUT FRACTION six OVER eleven" />
+	<glyph name="tenovereleven" category="Number" subCategory="Fraction" production="ten_fraction_one_one.nut" description="NUT FRACTION ten OVER eleven" />
+	<glyph name="threeovereleven" category="Number" subCategory="Fraction" production="three_fraction_one_one.nut" description="NUT FRACTION three OVER eleven" />
+	<glyph name="twoovereleven" category="Number" subCategory="Fraction" production="two_fraction_one_one.nut" description="NUT FRACTION two OVER eleven" />
+	<glyph name="elevenovertwelve" category="Number" subCategory="Fraction" production="eleven_fraction_one_two.nut" description="NUT FRACTION eleven OVER twelve" />
+	<glyph name="fiveovertwelve" category="Number" subCategory="Fraction" production="five_fraction_one_two.nut" description="NUT FRACTION five OVER twelve" />
+	<glyph name="oneovertwelve" category="Number" subCategory="Fraction" production="one_fraction_one_two.nut" description="NUT FRACTION one OVER twelve" />
+	<glyph name="sevenovertwelve" category="Number" subCategory="Fraction" production="seven_fraction_one_two.nut" description="NUT FRACTION seven OVER twelve" />
+	<glyph name="oneoveronehundred" category="Number" subCategory="Fraction" production="one_fraction_one_zero_zero.nut" description="NUT FRACTION one OVER onehundred" />
 	<glyph unicode="00BF" name="questiondown" category="Punctuation" description="INVERTED QUESTION MARK" />
 	<glyph unicode="00C0" name="Agrave" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER A WITH GRAVE" />
 	<glyph unicode="00C1" name="Aacute" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER A WITH ACUTE" />
@@ -391,8 +391,8 @@
 	<glyph unicode="011F" name="gbreve" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER G WITH BREVE" />
 	<glyph unicode="0120" name="Gdotaccent" category="Letter" subCategory="Uppercase" script="latin" altNames="Gdot" description="LATIN CAPITAL LETTER G WITH DOT ABOVE" />
 	<glyph unicode="0121" name="gdotaccent" category="Letter" subCategory="Lowercase" script="latin" altNames="gdot" description="LATIN SMALL LETTER G WITH DOT ABOVE" />
-	<glyph unicode="0122" name="Gcommaaccent" category="Letter" subCategory="Uppercase" script="latin" altNames="Gcedilla" description="LATIN CAPITAL LETTER G WITH CEDILLA" />
-	<glyph unicode="0123" name="gcommaaccent" category="Letter" subCategory="Lowercase" script="latin" altNames="gcedilla" description="LATIN SMALL LETTER G WITH CEDILLA" />
+	<glyph unicode="0122" name="Gcommaaccent" category="Letter" subCategory="Uppercase" script="latin" production="uni0122" altNames="Gcedilla" description="LATIN CAPITAL LETTER G WITH CEDILLA" />
+	<glyph unicode="0123" name="gcommaaccent" category="Letter" subCategory="Lowercase" script="latin" production="uni0123" altNames="gcedilla" description="LATIN SMALL LETTER G WITH CEDILLA" />
 	<glyph unicode="0124" name="Hcircumflex" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER H WITH CIRCUMFLEX" />
 	<glyph unicode="0125" name="hcircumflex" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER H WITH CIRCUMFLEX" />
 	<glyph unicode="0126" name="Hbar" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER H WITH STROKE" />
@@ -415,13 +415,13 @@
 	<glyph unicode="0135" name="jcircumflex" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER J WITH CIRCUMFLEX" />
 	<glyph name="Jacute" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER J WITH ACUTE" />
 	<glyph name="jacute" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER J WITH ACUTE" />
-	<glyph unicode="0136" name="Kcommaaccent" category="Letter" subCategory="Uppercase" script="latin" altNames="Kcedilla" description="LATIN CAPITAL LETTER K WITH CEDILLA" />
-	<glyph unicode="0137" name="kcommaaccent" category="Letter" subCategory="Lowercase" script="latin" altNames="kcedilla" description="LATIN SMALL LETTER K WITH CEDILLA" />
+	<glyph unicode="0136" name="Kcommaaccent" category="Letter" subCategory="Uppercase" script="latin" production="uni0136" altNames="Kcedilla" description="LATIN CAPITAL LETTER K WITH CEDILLA" />
+	<glyph unicode="0137" name="kcommaaccent" category="Letter" subCategory="Lowercase" script="latin" production="uni0137" altNames="kcedilla" description="LATIN SMALL LETTER K WITH CEDILLA" />
 	<glyph unicode="0138" name="kgreenlandic" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER KRA" />
 	<glyph unicode="0139" name="Lacute" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER L WITH ACUTE" />
 	<glyph unicode="013A" name="lacute" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER L WITH ACUTE" />
-	<glyph unicode="013B" name="Lcommaaccent" category="Letter" subCategory="Uppercase" script="latin" altNames="Lcedilla" description="LATIN CAPITAL LETTER L WITH CEDILLA" />
-	<glyph unicode="013C" name="lcommaaccent" category="Letter" subCategory="Lowercase" script="latin" altNames="lcedilla" description="LATIN SMALL LETTER L WITH CEDILLA" />
+	<glyph unicode="013B" name="Lcommaaccent" category="Letter" subCategory="Uppercase" script="latin" production="uni013B" altNames="Lcedilla" description="LATIN CAPITAL LETTER L WITH CEDILLA" />
+	<glyph unicode="013C" name="lcommaaccent" category="Letter" subCategory="Lowercase" script="latin" production="uni013C" altNames="lcedilla" description="LATIN SMALL LETTER L WITH CEDILLA" />
 	<glyph unicode="013D" name="Lcaron" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER L WITH CARON" />
 	<glyph unicode="013E" name="lcaron" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER L WITH CARON" />
 	<glyph unicode="013F" name="Ldot" category="Letter" subCategory="Uppercase" script="latin" altNames="Ldotaccent" description="LATIN CAPITAL LETTER L WITH MIDDLE DOT" />
@@ -430,8 +430,8 @@
 	<glyph unicode="0142" name="lslash" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER L WITH STROKE" />
 	<glyph unicode="0143" name="Nacute" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER N WITH ACUTE" />
 	<glyph unicode="0144" name="nacute" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER N WITH ACUTE" />
-	<glyph unicode="0145" name="Ncommaaccent" category="Letter" subCategory="Uppercase" script="latin" altNames="Ncedilla" description="LATIN CAPITAL LETTER N WITH CEDILLA" />
-	<glyph unicode="0146" name="ncommaaccent" category="Letter" subCategory="Lowercase" script="latin" altNames="ncedilla" description="LATIN SMALL LETTER N WITH CEDILLA" />
+	<glyph unicode="0145" name="Ncommaaccent" category="Letter" subCategory="Uppercase" script="latin" production="uni0145" altNames="Ncedilla" description="LATIN CAPITAL LETTER N WITH CEDILLA" />
+	<glyph unicode="0146" name="ncommaaccent" category="Letter" subCategory="Lowercase" script="latin" production="uni0146" altNames="ncedilla" description="LATIN SMALL LETTER N WITH CEDILLA" />
 	<glyph unicode="0147" name="Ncaron" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER N WITH CARON" />
 	<glyph unicode="0148" name="ncaron" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER N WITH CARON" />
 	<glyph unicode="0149" name="napostrophe" category="Letter" subCategory="Lowercase" script="latin" altNames="quoterightn" description="LATIN SMALL LETTER N PRECEDED BY APOSTROPHE" />
@@ -447,8 +447,8 @@
 	<glyph unicode="0153" name="oe" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LIGATURE OE" />
 	<glyph unicode="0154" name="Racute" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER R WITH ACUTE" />
 	<glyph unicode="0155" name="racute" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER R WITH ACUTE" />
-	<glyph unicode="0156" name="Rcommaaccent" category="Letter" subCategory="Uppercase" script="latin" altNames="Rcedilla" description="LATIN CAPITAL LETTER R WITH CEDILLA" />
-	<glyph unicode="0157" name="rcommaaccent" category="Letter" subCategory="Lowercase" script="latin" altNames="rcedilla" description="LATIN SMALL LETTER R WITH CEDILLA" />
+	<glyph unicode="0156" name="Rcommaaccent" category="Letter" subCategory="Uppercase" script="latin" production="uni0156" altNames="Rcedilla" description="LATIN CAPITAL LETTER R WITH CEDILLA" />
+	<glyph unicode="0157" name="rcommaaccent" category="Letter" subCategory="Lowercase" script="latin" production="uni0157" altNames="rcedilla" description="LATIN SMALL LETTER R WITH CEDILLA" />
 	<glyph unicode="0158" name="Rcaron" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER R WITH CARON" />
 	<glyph unicode="0159" name="rcaron" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER R WITH CARON" />
 	<glyph unicode="015A" name="Sacute" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER S WITH ACUTE" />
@@ -641,8 +641,8 @@
 	<glyph unicode="0215" name="udblgrave" category="Letter" subCategory="Lowercase" script="latin" production="uni0215" description="LATIN SMALL LETTER U WITH DOUBLE GRAVE" />
 	<glyph unicode="0216" name="Uinvertedbreve" category="Letter" subCategory="Uppercase" script="latin" production="uni0216" description="LATIN CAPITAL LETTER U WITH INVERTED BREVE" />
 	<glyph unicode="0217" name="uinvertedbreve" category="Letter" subCategory="Lowercase" script="latin" production="uni0217" description="LATIN SMALL LETTER U WITH INVERTED BREVE" />
-	<glyph unicode="0218" name="Scommaaccent" category="Letter" subCategory="Uppercase" script="latin" description="LATIN CAPITAL LETTER S WITH COMMA BELOW" />
-	<glyph unicode="0219" name="scommaaccent" category="Letter" subCategory="Lowercase" script="latin" description="LATIN SMALL LETTER S WITH COMMA BELOW" />
+	<glyph unicode="0218" name="Scommaaccent" category="Letter" subCategory="Uppercase" script="latin" production="uni0218" description="LATIN CAPITAL LETTER S WITH COMMA BELOW" />
+	<glyph unicode="0219" name="scommaaccent" category="Letter" subCategory="Lowercase" script="latin" production="uni0219" description="LATIN SMALL LETTER S WITH COMMA BELOW" />
 	<glyph unicode="021A" name="Tcommaaccent" category="Letter" subCategory="Uppercase" script="latin" production="uni021A" description="LATIN CAPITAL LETTER T WITH COMMA BELOW" />
 	<glyph unicode="021B" name="tcommaaccent" category="Letter" subCategory="Lowercase" script="latin" production="uni021B" description="LATIN SMALL LETTER T WITH COMMA BELOW" />
 	<glyph unicode="021C" name="Yogh" category="Letter" subCategory="Uppercase" script="latin" production="uni021C" description="LATIN CAPITAL LETTER YOGH" />
