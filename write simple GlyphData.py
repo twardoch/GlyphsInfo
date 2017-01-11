@@ -5,8 +5,8 @@ infos = GSGlyphsInfo.sharedManager().glyphInfos()
 # or:
 # infos = GSGlyphsInfo.alloc().initWithLocalFile_(NSURL.fileURLWithPath_("path to custom GlyphData.xml file"))
 
-f = open("/Users/georg/Programmierung/Stuff/GlyphsInfo/GlyphData.xml", "w")
-fIdeo = open("/Users/georg/Programmierung/Stuff/GlyphsInfo/GlyphData_Ideographs.xml", "w")
+f = open("GlyphData.xml", "w")
+fIdeo = open("GlyphData_Ideographs.xml", "w")
 
 def writeHeader(f):
 	f.write('<?xml version="1.0" encoding="UTF-8" ?>\n\
@@ -21,7 +21,7 @@ def writeHeader(f):
 	script			CDATA		#IMPLIED\n\
 	description		CDATA		#REQUIRED\n\
 	production		CDATA		#IMPLIED\n\
-	altNames		CDATA		#IMPLIED\n\
+	altNames		CDATA		#IMPLIED>\n\
 ]>\n\
 <glyphData>\n')
 
